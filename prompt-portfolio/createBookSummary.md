@@ -7,10 +7,10 @@ required_values:
 author: "dvansoye"
 ---
 
-# Instructions to User
+# User Instructions
 
 1. Upload the document (or documents) to analyze.
-2. Type createBookSummary.prompt.md as the prompt.
+2. Type createBookSummary.md as the prompt.
 
 # Objective
 
