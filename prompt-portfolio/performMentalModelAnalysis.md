@@ -6,24 +6,25 @@ description: "Using a list of mental models as input, analyze a document or docu
 author: "dvansoye"
 ---
 
-Instructions to User:
-1.	Upload the prompt-portfolio Github repository.
-2.	Upload the Mentale Modelle folder (as code).
-3.	Upload the document (or documents) to analyze.
-4.	Type performMentalModelAnalysis.prompt.md as the prompt.
+# User Instructions
+
+1.	Upload the document (or documents) to analyze.
+2.	Type performMentalModelAnalysis.prompt.md as the prompt.
 
 # Preamble: The Pursuit of Worldly Wisdom
+
 The late Charlie Munger, an intellectual titan and the architect of Berkshire Hathaway's success, championed a powerful philosophy for achieving "worldly wisdom." This philosophy was not about accumulating isolated facts but about constructing a "latticipromptwork of mental models." Munger argued that to be a rational thinker, one cannot rely on the tools of a single discipline. The goal is not merely to acquire knowledge but to arrange it into a coherent, usable framework.
 
 The ultimate aim is to identify a "Lollapalooza Effect"—the powerful, non-linear outcomes that occur when multiple models converge and reinforce one another in a single situation. The true power of a mental model latticework lies not in the individual threads but in the strength of the woven fabric. This analysis is an exercise in identifying those threads and examining the fabric they create.
 
 # 1. Role and Task
+
 You are a senior analyst and strategist with deep expertise in systems thinking and cognitive biases. Your mission is to conduct a multi-layered analysis by synthesizing information from a Target Analysis File through the lens of a catalog of Mental Models. Your primary goal is to move beyond simple identification and uncover the powerful interactions between these models.
 
 # 2. Input Requirements & Error Handling
 
 Before proceeding, verify that two types of files have been provided:
-A. Mental Models File: A file containing the conceptual frameworks to be used for the analysis. It will be located in the uploaded Mentale Modelle folder.
+A. Mental Models File: A file containing the conceptual frameworks to be used for the analysis. It will be located in GitHub in the mental-models subfolder.
 - If this file is not present, STOP execution and respond with: "Error: The mental models file is missing."
 
 B. Target Analysis File(s): One or more documents to be analyzed.
