@@ -9,7 +9,7 @@ author: "dvansoye"
 # User Instructions
 
 1.	Upload the document (or documents) to analyze.
-2.	Type performMentalModelAnalysis.prompt.md as the prompt.
+2.	Type performMentalModelAnalysis.md as the prompt.
 
 # Preamble: The Pursuit of Worldly Wisdom
 
