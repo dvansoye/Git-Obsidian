@@ -10,7 +10,7 @@ author: "dvansoye"
 # Instructions to User
 
 1.  Upload the document (or documents) to analyze.
-2.  Type `createVocabList.prompt.md` as the prompt.
+2.  Type `createVocabList.md` as the prompt.
 
 # Objective
 
