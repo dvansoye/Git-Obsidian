@@ -7,7 +7,7 @@ required_values:
 author: "dvansoye"
 ---
 
-# Instructions to User
+# User Instructions
 
 1.  Upload the document (or documents) to analyze.
 2.  Type `createChapterByChapterSummary.md` as the prompt.
