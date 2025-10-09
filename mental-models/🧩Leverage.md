@@ -4,6 +4,8 @@ Type: mental model
 Author:
   - Darren Van Soye
 Date-created: 2025-03-21
+aliases:
+  - high-leverage
 ---
 Tags: [[Latticework of Mental Models]]
 
