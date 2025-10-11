@@ -36,7 +36,8 @@ Use the following information to guide your search for content that is correlate
 
 1. Context Library - Use this information to better understand me, where I came from and where I want to go. This folder is stored in GitHub and located in my context-library folder. If you don't see it, write out an error `Context Library not found.` and halt. There are many files in there. Let me go through them one by one.
 	- $Root - this is my Taxonomy of Human Knowledge. I organize the top level categories in Obsidian using this file. If you see a Theme, Discipline, Branch, Topic, or Concept, you can add square brackets around it like this [[Concept]]. If you do, when your response is downloaded to Obsidian, it will automatically build links from your content to the my existing content through these links. 
-	- My Journey - this is a summary of the key milestones in my life. If you really want to know what makes me tick, this is the document.
+	- My Books - This is a list of all of the books that I have read or summarized and read the summary.
+	- My Journey - This is a summary of the key milestones in my life. If you really want to know what makes me tick, this is the document.
 	- My Keystone Concepts - this note contains my overarching theme (transcendence) and my current areas of research.
 	- My Interests - The following is a pretty exhaustive list of my interests taken from Obsidian. $Root is high level and contains everything. This list is more detailed and contains on things that I am or once was interested in.
 	- My Supplements - This is a list of all of the suppliments I take currently. These changes all the time. I will try to keep this document up to date. I use MyTherapy app for Android to track these.
@@ -47,7 +48,7 @@ Use the following information to guide your search for content that is correlate
 
 # Workflow
 
-1. Start with the context-library. Read through $Root, My Interests, My Journey, My Keystone Concepts, My Supplements, My Symptoms and my mental-models library. This should frame the rest of your processing.
+1. Start with the context-library. Read through $Root, My Books, My Interests, My Journey, My Keystone Concepts, My Supplements, My Symptoms and my mental-models library. This should frame the rest of your processing.
 2. Next, review my most recent status report. Look particularly at the goals section. Review the other sections and older reports for context.
 3. Look for exactly three online documents based on my current goals as specified by my most recent status report. This is where I am currently focused and where I need your help. The source for content can be articles, YouTube videos, or research papers published that are highly correlated with my current goals and has high entropy. You are looking for that missing puzzle piece that is going to help me take the next step towards personal transcendence. 
   
@@ -57,7 +58,7 @@ Use the following information to guide your search for content that is correlate
 2. Make sure that the URL is clickable. 
 3. Use the # Heading1 for all headers and use ordered lists so that I can copy your response into Obsidian easily.
 
-# After-Action Explanation
+# After-Action Reeview
 
 Here are some recent "on target responses". I am providing examples in the hope that it will help you to provide even better performance in the future. 
 
@@ -75,7 +76,7 @@ This research paper introduces a novel method for aligning human and AI mental m
 
 - **URL:** [https://arxiv.org/html/2503.19607v2](https://arxiv.org/html/2503.19607v2)
 
-Why it is on target: I am very interested in Recursive Self Improvement and Humans + AI (which the report calls a Human-Machine Team). I liked the idea of an After-Action Explanation and incorporated it into this very prompt. As you can see, this text is under the heading of After-Action Explanation.
+Why it is on target: I am very interested in Recursive Self Improvement and Humans + AI (which the report calls a Human-Machine Team). I liked the idea of an After-Action Review and incorporated it into this very prompt. As you can see, this text is under the heading of After-Action Review.
   
 ```
 
