@@ -21,7 +21,6 @@ author: dvansoye
 # Prompt
 
 ```
-2025-10-06 AI Epimetheus Sept
 I have uploaded all of my diary entries for the past period. 
 
 # Accomplishments
@@ -31,7 +30,8 @@ What have I accomplished?
 1. '- [ ]` means I didn't complete it. `- [X]` means I did complete it. 
 2. I'm looking for a summary so combine like items. 
 3. Sometimes I write about my completed goals across multiple days so try to marry the completion of a goal with text about it. 
-4. Anything flagged with #wins is highly significant and should be place first in the list. It means that I completed a goal or transcended in some way.
+4. Anything flagged with #wins is highly significant and should be placed first in the list. Add a #wins to the end of the line so that I know I considered in an important milestone.
+5. All goals should be written in the first person (I/my).
 
 # Goals
 
