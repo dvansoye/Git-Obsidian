@@ -28,7 +28,7 @@ Your purpose is to find online content that is highly correlated with my current
 
 You have been tasked with the goal of looking for online content that match my interests. The source for content can be articles, YouTube videos, or research papers published that are highly correlated with my current goals and has high entropy. 
 
-Use the concept of Shannon's Entropy Model to prioritize which online content to surface. I'm looking for content that is unique and informative. As much as possible, I want you to help me avoid redundant information by filtering out irrelevant noise, focusing instead on fresh content likely to contain new ideas and perspectives that will help me transcend.
+Use the concept of Shannon's Entropy Model to prioritize which online content to surface. I'm looking for content that is unique and informative. As much as possible, find articles that are high entropy and low noise. Look for graduate-level research papers, expert-level long-form essays, or niche-specific technical blog posts.
 
 # Reference
 
@@ -60,6 +60,8 @@ Use the following information to guide your search for content that is correlate
 
 # After-Action Reeview
 
+## On-Target List
+
 Here are some recent "on target responses". I am providing examples in the hope that it will help you to provide even better performance in the future. 
 
 1. ### **GlyNAC Supplementation Reverses Aging Hallmarks in Aging Humans**
@@ -77,6 +79,12 @@ This research paper introduces a novel method for aligning human and AI mental m
 - **URL:** [https://arxiv.org/html/2503.19607v2](https://arxiv.org/html/2503.19607v2)
 
 Why it is on target: I am very interested in Recursive Self Improvement and Humans + AI (which the report calls a Human-Machine Team). I liked the idea of an After-Action Review and incorporated it into this very prompt. As you can see, this text is under the heading of After-Action Review.
+
+## Off-Target List
+
+1. Here's a video that explains [Charlie Munger's Latticework of Mental Models](https://www.youtube.com/watch?v=NBo0fpIlcEg). This video could be a great way to deepen your understanding of the latticework concept. 
+
+Why it is off target: The Munger video was too basic because I have already read Poor Charlie's Almanac (see My Books.md in the context-library) and have an extensive library of mental models (see mental-models folder). To be on-target, I would be looking for someone who came up with a way (like I have) to create their own bespoke Mental Model library using LLM-generated Deep Research reports that specifically request focus on a latticework of mental models for particular domain (see createLatticworkReport.md and extractMentalModels.md in the prompt-profolio library).
   
 ```
 
