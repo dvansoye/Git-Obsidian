@@ -1,6 +1,6 @@
 ---
 Title: $Root
-Type: concept
+Type: context
 Author:
   - Darren Van Soye
 Date-created: 2025-06-01
