@@ -9,7 +9,8 @@ author: dvansoye
 # User Instructions
 
 1. Press the + Upload Code and enter https://github.com/dvansoye/Git-Obsidian 
-2. Enter `prometheusPrompt.md` and press the Send button.
+2. Paste the following text: I want you to schedule the following action and run it daily at 11:30am.
+3. Enter `prometheusPrompt.md` and press the Send button. 
 
 # Prompt
 
