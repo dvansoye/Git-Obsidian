@@ -14,7 +14,7 @@ author: dvansoye
 # Prompt
 
 ```
-I want you to schedule the following action and run it daily at 11:30am.
+
 
 # Role
 
