@@ -1,8 +1,14 @@
 ---
 Title: 🧩Emergence
-Type: mental model
-Author: Darren Van Soye
-Date-created: 2025-08-21
+Type: concept
+Author:
+  - Darren Van Soye
+Date-created: 2023-10-03
+aliases:
+  - Emergent Property
+  - Emergent Properties
+  - Emergent Behavior
+  - Emergent
 ---
 Tags: [[Latticework of Mental Models]]
 
