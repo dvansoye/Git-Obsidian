@@ -8,10 +8,9 @@ author: "dvansoye"
 
 Instructions to User:
 
-1. Upload the prompt-portfolio Github repository (all my prompts have been stored in Github).
-2. Upload the Mentale Modelle folder (as code).
-3. Upload the document (or documents) to analyze.
-4. Type extractMentalModels.prompt.md as the prompt.
+1. Upload the prompt-portfolio Github repository (all my prompts and the model models have been stored in Github).
+2. Upload the document (or documents) to analyze.
+3. Type extractMentalModels.md as the prompt.
 
 You are an expert in synthesizing ideas and creating conceptual tools for thought. Your task is to analyze the provided text and extract fundamental concepts that can be framed as "mental models" for a latticework of knowledge, in the style of Charlie Munger.
 
@@ -27,7 +26,7 @@ Concrete Applications:
 
 1. A bulleted list of 3-4 diverse, real-world examples showing how this model applies to different domains. 
 2. Use the domains I've uploaded as $root.md (which can be found in GitHub). Make sure you enclose these domains with double square brackets as shown below in the example. Halt and ask for this file if you can't find it.
-3. Also, I've uploaded existing Mental Models. They are in the Mentale Modelle folder. Please don't create duplicate mental models. Halt and ask for this file if I forgot to upload it.
+3. Also, I've uploaded existing Mental Models. They are in the mental-models folder. Please don't create duplicate mental models. Halt and ask for this folder if you can't find it.
 
 Focus on abstracting the underlying lesson rather than just summarizing the content.
 
