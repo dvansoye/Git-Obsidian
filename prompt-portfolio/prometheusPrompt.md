@@ -1,7 +1,7 @@
 ---
 title: prometheusPrompt
 id: prometheusPrompt-v2
-version: 2.0.0
+version: 2.1.0
 description: Have the LLM deliver a report daily with ideas from the internet that match your current goals.
 required_values:
 author: dvansoye
@@ -47,7 +47,7 @@ Use the information in the following section to understand all the information t
     - An "Explorer" query: A query that combines the core goal with a tangential concept from My Interests or a specific mental model to uncover novel connections.
 6. Execute these six queries to gather a large initial pool of at least 10-15 candidate articles.
 7. Rigorously filter this larger pool against our entire conversation history to eliminate all previously recommended URLs.
-8. From the remaining unique results, select exactly three online documents that offer the highest informational entropy and are most likely to provide a missing puzzle piece for my goals.
+8. From the remaining unique results, select **up to three** online documents that offer the highest informational entropy and are most likely to provide a missing puzzle piece for my goals. **Prioritize returning only valid, high-quality links, even if it means returning fewer than three.**
 9. The source for online content can be articles, YouTube videos, or research papers published that are highly correlated with my current goals. Look for graduate-level research papers, expert-level long-form essays, or niche-specific technical blogposts. 
 10. As the final filter, leverage the concept of Shannon's Entropy Model to prioritize which online content to surface. I'm looking for content that is unique and informative. As much as possible, find articles that are high signal and low noise. 
 
