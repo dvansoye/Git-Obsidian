@@ -9,6 +9,8 @@ author: dvansoye
 
 # User Instructions
 
+Note: These are instructions for the human. LLMs can safely ignore this section.
+
 1. Press the + Upload Code and enter https://github.com/dvansoye/Git-Obsidian 
 2. Enter `prometheusPrompt.md` and press the Send button. 
 

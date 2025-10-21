@@ -9,6 +9,8 @@ author: "dvansoye"
 
 # User Instructions
 
+Note: These are instructions for the human. LLMs can safely ignore this section.
+
 1.  Upload the document (or documents) to analyze.
 2.  Type `createVocabList.md` as the prompt.
 

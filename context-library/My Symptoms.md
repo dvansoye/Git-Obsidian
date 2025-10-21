@@ -51,10 +51,10 @@ SORT file.name
 - I have low Neutrophils (Absolute)? It was 1.2 for my last physical.
 - I have a CRP of 1 (which is good; indicates low inflammation).
 - My total cholesterol is 282 (very high). I'm now on Rosuvastatin.
-- I have low HRV. It is often in the low 20s as messured by my Oura Ring. Oura calculates nighttime HRV **using rMSSD**,
+- I have low HRV. It is often in the low 20s as measured by my Oura Ring. Oura calculates nighttime HRV **using rMSSD**,
 - My deep sleep is very limited (20 minutes is typical).
 - Brain fog and memory issues (probably the result of poor sleep).
-- I get hot flashes in the middle of the night usually around 4am. I have started to eat Oatmeal at night after dinner and this has made them better.
+- I get [[hot flashes]] in the middle of the night usually around 4am. I have started to eat Oatmeal at night after dinner and this has made them better.
 - I have cold extremities while camping even though my sleeping bag is warm. My feet are surprisingly cold to the touch.
 - Recently, I got up three times. I actually got up four times. That's because right after the second time, I felt the need again. I got up and sat on the toilet for a while and tried to go. I was only able to produce a small amount of urine. This made me think at the time that my bladder has severe irratation and/or is sending false signals at times to my brain. 
 
