@@ -26,15 +26,8 @@ Note: These are instructions for the human. LLMs can safely ignore this section.
 
 Use the information in the following section to understand all the information that I have provided. The terms below will be references in subsequent sections. 
 
-1. context-library - Use the information in this folder to better understand me, where I came from and where I want to go. This folder is stored in GitHub and has been attached to the prompt. If you don't see it, write out an error `Context Library not found.` and halt. There are many files in there. Let me go through them one by one.
-	- My Keystone Concepts.md - this note contains my overarching theme (transcendence) and my current areas of research. This is the big picture
-	- My Journey.md - This is a summary of the key milestones in my life. If you really want to know what makes me tick, this is the document.
-	- $Root.md - this is my Taxonomy of Human Knowledge. I organize the top level categories in Obsidian using this file. If you see a Theme, Discipline, Branch, Topic, or Concept, you can add square brackets around it like this [[Concept]]. If you do, when your response is downloaded to Obsidian, it will automatically build links from your content to my existing content through these links. 
-	- My Interests.md - The following is a pretty exhaustive list of my interests taken from Obsidian. $Root is high level and contains everything. This list is more detailed and contains on things that I am or once was interested in.
-	- My Books.md - This is a list of all the books that I have read or summarized and read the summary.
-	- My Symptoms.md - This is a list of all of my symptoms. It is very detailed. Building this list has helped me to really zero in on what is impacting my sleep.
-	- My Supplements.md - This is a list of all the supplements I take currently. These changes all the time. I will try to keep this document up to date. I use MyTherapy app for Android to track these.
-2. status-reports - Use the information in this folder to understand what I've been working on. The date of the report can be determined by the filename. It is in YYYY-MM-DD format. The most recent report is of course the latest one. 
+
+1. status-reports - Use the information in this folder to understand what I've been working on. The date of the report can be determined by the filename. It is in YYYY-MM-DD format. The most recent report is of course the latest one. 
 
 # Core Tasks
 
