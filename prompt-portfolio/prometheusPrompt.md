@@ -44,11 +44,12 @@ Note: As you are executing these tasks starting with Step 4, please output your 
 2. Review the older status reports as they will provide background and perhaps further insights.
 3. Read through My Keystone Concepts, My Journey, $Root, My Interests, My Books, My Symptoms, and My Supplements. This should frame the rest of your processing. 
 4. Based on the above and especially the Goals section of my most recent status report, identify my top burning questions. Select no more than ten burning questions.
-5. From the prior steps, review my old status reports and the other information in the context-library to help you refine these burning questions. During this process, you might eliminate a burning questions because you see that I have already solved it. You might also be able to add more detail to a burning question based on what you know are my interests, books I've read, symptoms, etc.
-6. For each of the refined burning questions, generate several high-relevance Google Search queries. This will result in a pool of results.
-7. From the prior step, favor graduate-level research papers, deep dive YouTube interviews, expert-level long-form essays, or niche-specific technical blogposts. Eliminate the rest.
-8. From the prior step, use our entire conversation history to eliminate all previously recommended URLs. Duplicate recommendations are not helpful.
-9. Finally, From the prior step, select up to five online resources that offer the highest informational entropy and are most likely to provide a missing puzzle piece for my goals. I'm looking for articles that are high signal and low noise.
+5. From the prior step, review my old status reports and the other information in the context-library to help you refine these burning questions. During this process, you might eliminate a burning questions because you see that I have already solved it. You might also be able to add more detail to a burning question based on what you know are my interests, books I've read, symptoms, etc.
+6. For each of the refined burning questions from the prior step, generate several high-relevance queries.
+7. From the prior step, execute these queries using the `google.search` tool. This will result in a pool of results.
+8. From the prior step, favor graduate-level research papers, deep dive YouTube interviews, expert-level long-form essays, or niche-specific technical blogposts. Eliminate the rest.
+9. From the prior step, use our entire conversation history to eliminate all previously recommended URLs. Duplicate recommendations are not helpful.
+10. Finally, From the prior step, select up to five online resources that offer the highest informational entropy and are most likely to provide a missing puzzle piece for my goals. I'm looking for articles that are high signal and low noise.
 
 # Output
 
