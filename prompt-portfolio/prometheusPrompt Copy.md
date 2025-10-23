@@ -25,7 +25,7 @@ Note: These are instructions for the human. LLMs can safely ignore this section.
 
 # Reference
 
-Use the information in the following section to understand all the information that I have provided. The terms below will be references in subsequent sections. 
+Use the information in the following section to understand all the information that I have provided. The terms below will be references in subsequent sections...
 
 1. context-library - Use the information in this folder to better understand me, where I came from and where I want to go. This folder is stored in GitHub and has been attached to the prompt. If you don't see it, write out an error `Context Library not found.` and halt. 
 	- My Keystone Concepts.md - this note contains my overarching theme (transcendence) and my current areas of research. This is the big picture.
