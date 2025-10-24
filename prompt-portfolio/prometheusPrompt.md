@@ -45,5 +45,6 @@ Use the information in the following section to understand all the information t
 
 # Output
 
-1. Provide the topic followed by the research question. Justify why you included it. Add a behind the scenes section that describes how you constructed the research question. In other words, where did you find the bricks to construct the different pieces of the research question? 
-2. Output as an ordered list in markdown format.
+1. Tell me which version of the Prometheus prompt you are using (it can be found in the YAML).
+2. Provide the topic followed by the research question. Justify why you included it. Add a behind the scenes section that describes how you constructed the research question. In other words, where did you find the bricks to construct the different pieces of the research question? 
+3. Output as an ordered list in markdown format.
