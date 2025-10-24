@@ -15,7 +15,7 @@ Note: These are instructions for the human. LLMs can safely ignore this section.
 
 # Objective
 
-- To help me to find online content that is highly correlated with my current goals and has high entropy.
+- To help me to generate relevant research questions that lead to insights that help me to reach and even transcend my goals.
 
 # Your Role
 
