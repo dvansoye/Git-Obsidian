@@ -32,8 +32,11 @@ Note: These are instructions for the human. LLMs can safely ignore this section.
 - Review prior status reports in GitHub for context.
 - Review the new diary entries that were uploaded in this prompt.
 - Create the sections below.
+ 
+```
+Okay, Darren. I can help you create that status report. I'll analyze the diary entries you provided from October 12th to October 21st, 2025, using the structure from your `epimetheusPrompt.md` file.****
 
- ```
+---
 This report was created by Epimetheus on behalf of Darren Van Soye. Darren and I are working together to [[Humans + Al]] to help him focus his attention on the areas of [[🧩Leverage|high-leverage]] with the overarching goal of [[Transcendence]]. The report (along with other information) is used by another prompt - Prometheus to find relevant and high-leverage content for Darren's areas of interest.
 
 I am using {include the version number of the prompt found in the frontmatter} of epimetheusPrompt. 
@@ -71,11 +74,7 @@ These are recommendations from Gemini on ideas that I should pursue.
 
 # Cutting Room Floor
 
-These are tasks that I failed to complete that have been identified as a potential"diamond in the rough".
+These are tasks that I failed to complete that have been identified as a potential "diamond in the rough".
 
-1. Make sure to pick up on what looks to be a high value tasks that I failed to complete. Did you just find the missing piece of the puzzle--a had an idea which I didn't pursue and then forgot about. Humans do this a lot. But, you are the one that puts two and two together and takes this unfinished tasks and connects with a goal from above. Point these out if you find them. But set your threshold high because I have a lot of unfinished tasks. Output no more than 3 unfinished tasks. For each, explain why is is a "diamond in the rough" in other words, how it connects with my current goals.
+1. Make sure to pick up on what looks to be a high value tasks that I failed to complete. Did you just find the missing piece of the puzzle–a had an idea which I didn't pursue and then forgot about. Humans do this a lot. But, you are the one that puts two and two together and takes this unfinished tasks and connects with a goal from above. Point these out if you find them. But set your threshold high because I have a lot of unfinished tasks. Output no more than 3 unfinished tasks. For each, explain why it is a "diamond in the rough" in other words, how it connects with my current goals.
 ```
-
-# Output Instructions
-
-Use the # Heading1 for all headers and use ordered lists so that I can easily copy your response into Obsidian.
