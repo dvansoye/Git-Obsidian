@@ -55,7 +55,7 @@ This section includes everything I accomplished during the period included.
 
 # Goals
 
-These are the implied or explicite goals that Gemini determined after looking at my status report. 
+These are the implied or explicite goals that Gemini determined after looking at my diary entries. 
 
 What goals implied or explicit can you determine by this list? Many are just "ideas" which I wrote down without judging them. But if you see patterns then this would be a good candidate for a goal. 
 
