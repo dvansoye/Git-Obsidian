@@ -45,6 +45,19 @@ Use the information in the following section to understand all the information t
 
 # Output
 
-1. Tell me which version of the Prometheus prompt you are using (it can be found in the YAML).
-2. Provide the topic followed by the research question. Justify why you included it. Add a behind the scenes section that describes how you constructed the research question. In other words, where did you find the bricks to construct the different pieces of the research question? 
-3. Output as an ordered list in markdown format.
+1. Provide the topic followed by the research question. Justify why you included it. Add a behind the scenes section that describes how you constructed the research question. In other words, where did you find the bricks to construct the different pieces of the research question? 
+2. What follows is an example.
+
+```
+This report was created by Prometheus on behalf of Darren Van Soye. Darren and I are working together to [[Humans + Al]] to help him focus his attention on the areas of [[🧩Leverage|high-leverage]] with the overarching goal of [[Transcendence]]. One of my major input is Darren's status report which was created by my brother Epimetheus.
+
+I am using {include the version number of the prompt found in the frontmatter} of prometheusPrompt. 
+
+Research Questions created on {todays's date}.
+
+Here are 12 research questions designed to spark insights and help you reach your goals:
+
+1. **Topic:** Magnesium Deficiency and Systemic Symptoms **Research Question:** From a **[[Systems Thinking]]** perspective, how might a chronic magnesium deficiency create a reinforcing feedback loop involving HPA axis dysregulation ([[Sympathetic Nervous System]]), poor sleep quality ([[Low Deep Sleep]], [[Sleep Maintenance Insomnia]]), increased neuromuscular excitability ([[Bruxism]], [[RLS]], [[Heart Palpitations]], [[Urinary Urgency]]), and heightened stress perception, and what are the highest **[[🧩Leverage|leverage]]** points (e.g., dosage timing, form of magnesium, co-factors) to break this cycle? **Justification:** Your primary goal is diagnosing and resolving the suspected magnesium deficiency, which you hypothesize connects almost all your symptoms. This question uses systems thinking to explore the potential cascading effects and identify the most effective intervention points, directly addressing your core health objective. **Behind the Scenes:** This question stems directly from Goal #1 in your 2025-10-21 report and your accomplishment #1 linking magnesium to your varied symptoms. It incorporates specific symptoms listed in `My Symptoms.md` and applies the [[Systems Thinking]] framework you value. The concept of [[🧩Leverage|leverage]] is included as requested.
+
+(report continues...)
+```
