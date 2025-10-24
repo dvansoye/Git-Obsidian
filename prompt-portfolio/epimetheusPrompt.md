@@ -60,7 +60,7 @@ What do you think is behind all of these goals? What are my fears and aspiration
 
 # Cutting Room Floor
 
-1. Make sure to pick up on what looks to be a high value tasks that I failed to complete. Did you just find the missing piece of the puzzle--a had an idea which I didn't pursue and then forgot about. Humans do this a lot. But, you are the one that puts one and one together and takes this unfinished tasks and connects with a goal from above. Point these out if you find them. But set your threshold high because I have a lot of unfinished tasks. Output no more than 3 unfinished tasks. For each, explain why is is a "diamond in the rough" in other words, how it connects with my current goals.
+1. Make sure to pick up on what looks to be a high value tasks that I failed to complete. Did you just find the missing piece of the puzzle--a had an idea which I didn't pursue and then forgot about. Humans do this a lot. But, you are the one that puts two and two together and takes this unfinished tasks and connects with a goal from above. Point these out if you find them. But set your threshold high because I have a lot of unfinished tasks. Output no more than 3 unfinished tasks. For each, explain why is is a "diamond in the rough" in other words, how it connects with my current goals.
 ```
 
 # Output Instructions
