@@ -1,7 +1,7 @@
 ---
 title: epimetheusPrompt
-id: epimetheusPrompt-v1
-version: 1.0.0
+id: epimetheusPrompt-v2
+version: 2.0.0
 description: Have the LLM summarize the previous month's activities. See if it can uncover implied goals.
 required_values:
 author: dvansoye
@@ -34,10 +34,17 @@ Note: These are instructions for the human. LLMs can safely ignore this section.
 - Create the sections below.
 
  ```
+This report was created by Epimetheus on behalf of Darren Van Soye. Darren and I are working together to [[Humans + Al]] to help him focus his attention on the areas of [[🧩Leverage|high-leverage]] with the overarching goal of [[Transcendence]]. The report (along with other information) is used by another prompt - Prometheus to find relevant and high-leverage content for Darren's areas of interest.
+
+I am using {include the version number of the prompt found in the frontmatter} of epimetheusPrompt. 
+
+Status Report for the diary entries between {first date} to {last date}.
+ 
 # Accomplishments
 
 What have I accomplished? 
 
+This section includes everything I accomplished during the period included.
 1. '- [ ]` means I didn't complete it. 
 2. `- [X]` means I did complete it. 
 3. Sometimes I write some commentary about tasks that I have completed after the ✅. This commentary is usually very short but can contain important information. In some cases, I check it off as complete but then write in the commentary that I didn't complete it. I've decided not to do it and I don't want to look at it anymore.
@@ -48,6 +55,8 @@ What have I accomplished?
 
 # Goals
 
+These are the implied or explicite goals that Gemini determined after looking at my status report. 
+
 What goals implied or explicit can you determine by this list? Many are just "ideas" which I wrote down without judging them. But if you see patterns then this would be a good candidate for a goal. 
 
 # Meta-motivations
@@ -56,9 +65,13 @@ What do you think is behind all of these goals? What are my fears and aspiration
 
 # Recommendations 
 
+These are recommendations from Gemini on ideas that I should pursue. 
+
 1. What ideas would be worth pursuing and why? 
 
 # Cutting Room Floor
+
+These are tasks that I failed to complete that have been identified as a potential"diamond in the rough".
 
 1. Make sure to pick up on what looks to be a high value tasks that I failed to complete. Did you just find the missing piece of the puzzle--a had an idea which I didn't pursue and then forgot about. Humans do this a lot. But, you are the one that puts two and two together and takes this unfinished tasks and connects with a goal from above. Point these out if you find them. But set your threshold high because I have a lot of unfinished tasks. Output no more than 3 unfinished tasks. For each, explain why is is a "diamond in the rough" in other words, how it connects with my current goals.
 ```
