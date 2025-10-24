@@ -30,7 +30,7 @@ Status Report for the diary entries between 2025-10-12 to 2025-10-21.
 9. I investigated the relationship between constipation and urinary urgency (Oct 16).
 10. I researched detrusor muscle overactivity, stress links, and potential treatments (Oct 17).
 11. I stopped several bladder-related supplements (Prelief, Marshmallow Root, Chondroitin/Glucosamine) to isolate variables for the magnesium experiment (Oct 17).
-12. I brainstormed improvements for the [[prometheusPrompt]], focusing on query diversification and avoiding duplicate results (Oct 14).
+12. I brainstormed improvements for the [[2025-10-24 AI Prometheus Report]], focusing on query diversification and avoiding duplicate results (Oct 14).
 13. I completed various practical tasks like making backups, managing Pop's Norton subscription, oiling my chair, and fixing the TTP website after an outage (Oct 12, Oct 16, Oct 19, Oct 20, Oct 21).
 14. I updated and added context files (My Symptoms, My Supplements, My Books) to GitHub for better AI support (Oct 12).
 15. I added 'Total Sleep Time' to my Magnesium Rubric (Oct 21).
