@@ -38,11 +38,13 @@ Note: These are instructions for the human. LLMs can safely ignore this section.
 
 What have I accomplished? 
 
-1. '- [ ]` means I didn't complete it. `- [X]` means I did complete it. 
-2. I'm looking for a summary so combine like items. 
-3. Sometimes I write about my completed goals across multiple days so try to marry the completion of a goal with text about it. 
-4. Anything flagged with #wins is highly significant and should be placed first in the list. Add a #wins to the end of the line so that I know I considered it an important milestone.
-5. All goals should be written in the first person (I/my).
+1. '- [ ]` means I didn't complete it. 
+2. `- [X]` means I did complete it. 
+3. Sometimes I write some commentary about tasks that I have completed after the ✅. This commentary is usually very short but can contain important information. In some cases, I check it off as complete but then write in the commentary that I didn't complete it. I've decided not to do it and I don't want to look at it anymore.
+4. I'm looking for a summary so combine like items. 
+5. Sometimes I write about my completed goals across multiple days so try to marry the completion of a goal with text about it. 
+6. Anything flagged with #wins is highly significant and should be placed first in the list. Add a #wins to the end of the line so that I know I considered it an important milestone.
+7. All goals should be written in the first person (I/my).
 
 # Goals
 
