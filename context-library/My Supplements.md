@@ -14,13 +14,12 @@ LIST FROM [[#]]
 SORT file.name
 ```
 
-
-
 ### Morning
 - **Entadfi (Finasteride, Tadalafil):** 5mg
 - **NOW NAC:** 1000 mg
 - **Thorne Glycine:** 1000 mg
 - **Nutricost Magnesium Bisglycinate:** 210 mg
+- Swanson P-5-P 20 mg
 
 ### Noon
 - **NOW NAC:** 500 mg
