@@ -1,6 +1,6 @@
 ---
-title: dephiPrompt
-id: delphiPrompt-v1
+title: delmetheusPrompt
+id: delmetheusPrompt-v1
 version: 1.0.0
 description: Have the LLM take research questions and come up with bespoke deep research reports
 required_values:
