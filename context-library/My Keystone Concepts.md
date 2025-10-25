@@ -72,7 +72,7 @@ Synthetic Reports are AI generated documents. Here are the different flavors.
 # Automation 
 
 1. I store all of my prompts in GitHub. I also store all of my mental models there. This makes it convenient when I refer to them using Gemini. All I need to do is provide a link to my library and Gemini knows about all of my prompts by name. No more cutting and pasting.
-2. Because I have all of my prompts in GitHub, I can refer to them by name. Recently, I automated the five prompts that make up the  [[Summarization Suite]] using [[Comet]]. All I need to do is to upload the document (book, PDF, etc.) and start Comet up. I can actually minimize the window and allow it to process.
+2. Because I have all of my prompts in GitHub, I can refer to them by name. Recently, I automated the five prompts that make up the [[Summarization Suite]] using [[Comet]]. All I need to do is to upload the document (book, PDF, etc.) and start Comet up. I can actually minimize the window and allow it to process.
 3. Once all the prompts have been run, I have a way to convert the output into markdown and download it directly into Obsidian.
 4. Once it is in Obsidian, I have a series of tools and scripts that reformat the text. I've had this for a while but I continue to make improvements. Once such improvement is to take all of my highlights and reactions to the text and place them at the beginning of the document which makes it easy to review what was important to me later. I plan to use AI here too by having it reorder, split, and merge the points so they make sense together and are easier to consume, retain and apply.
 
