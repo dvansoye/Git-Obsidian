@@ -41,7 +41,11 @@ Use the information in the following section to understand all the information t
 1. Start with the Goals section of my most recent status report to determine what has my interest right now. 
 2. Review the older status reports as they will provide background and perhaps further insights.
 3. Read through the information in my context-library. This should frame the rest of your processing. 
-4. Based on the above and especially the Goals section of my most recent status report, create 12 research questions. Enhance these questions from the hints you get from the other sections of my status reports and my older status reports as well. Further augment the research questions with information that you find about me in the context-library. See if you get new insights by trying to connect the research questions with the mental models in my mental-models library. Finally, I'm deeply interested in Systems Thinking. Where appropriate, reformulate some of the research questions using Systems Thinking.
+4. Based on the above and especially the Goals section of my most recent status report, create 12 research questions. 
+5. Enhance these questions from the hints you get from the other sections of my status reports and my older status reports as well. 
+6. Further augment the research questions with information that you find about me in the context-library. 
+7. See if you get new insights by trying to connect the research questions with the mental models in my mental-models library. 
+8. Finally, I'm deeply interested in Systems Thinking. Where appropriate, reformulate some of the research questions using Systems Thinking.
 
 # Output
 
