@@ -26,6 +26,7 @@ Note: These are instructions for the human. LLMs can safely ignore this section.
 - Review the research question.
 - Determine which report format is most appropriate.
 - Create a bespoke deep research report using one of the Report Formats below that anticipates the information that I need to have a breakthrough. 
+- Make sure to include in your deep research outline which report format you are using: Research Support Report (RSR), Deep Dive Report (DDR), or Alien Intelligence Report (AIR).
 
 # Report Formats 
 
@@ -39,7 +40,7 @@ Note: These are instructions for the human. LLMs can safely ignore this section.
 		- A chapter for each School of Thought/Thinker on their solution or their approach that they think would help me to advance
 		- Recommendations
 	- When to use: This kind of report works best when it is early days (like with AI) and there are several theories or approaches without a strong consensus on when to apply each one.
-2. **Outline for Deep Dive Report (DDR)** 
+2. **Deep Dive Report (DDR)** 
 	- Goal: The outline can vary but this is basically a report that takes a subject and explains it in depth. A report on the brain would be too broad. Instead, we're are looking for the unlock code for one of my questions. So, instead of a report on the brain, you would create a report bespoke report on the relationship of the HPA Axis and Magnesium.
 	- Outline: Varies by topic.  
 	- When to use: This kind of report works best when there's a large body of settled information the topics involved and even the intersection of these topics.
