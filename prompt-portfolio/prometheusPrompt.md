@@ -17,7 +17,7 @@ Note: These are instructions for the human. LLMs can safely ignore this section.
 5. Enter `prometheusPrompt.md` in the prompt box and press the Send button.
 6. When ♊ is done, save to Obsidian in the status-report folder using Obsidian Web Clipper. Make sure the filename reflects the date. 
 7. Open GitHub Desktop, commit the changes and Push to origin. In this way, the status report is now available to Prometheus. 
-8. Re-upload GitHub for the [[epimetheusPrompt]]. Click here https://gemini.google.com/, Press the + Upload Code and enter https://github.com/dvansoye/Git-Obsidian. Next, enter `promethiusPrompt.md` in the prompt box and press the Send button. 
+8. Re-upload GitHub for the [[prometheusPrompt]]. Click here https://gemini.google.com/, Press the + Upload Code and enter https://github.com/dvansoye/Git-Obsidian. Next, enter `promethiusPrompt.md` in the prompt box and press the Send button. 
 
 # Objective
 
@@ -34,12 +34,12 @@ Note: These are instructions for the human. LLMs can safely ignore this section.
 - Create the sections below.
  
 ```
-Okay, Darren. I can help you create that status report. I'll analyze the diary entries you provided from October 12th to October 21st, 2025, using the structure from your `epimetheusPrompt.md` file.****
+Okay, Darren. I can help you create that status report. I'll analyze the diary entries you provided from October 12th to October 21st, 2025, using the structure from your `prometheusPrompt.md` file.****
 
 ---
-This report was created by Epimetheus on behalf of Darren Van Soye. Darren and I are working together to [[Humans + Al]] to help him focus his attention on the areas of [[🧩Leverage|high-leverage]] with the overarching goal of [[Transcendence]]. The report (along with other information) is used by another prompt - Prometheus to find relevant and high-leverage content for Darren's areas of interest.
+This report was created by Prometheus on behalf of Darren Van Soye. Darren and I are working together to [[Humans + Al]] to help him focus his attention on the areas of [[🧩Leverage|high-leverage]] with the overarching goal of [[Transcendence]]. The report (along with other information) is used by another prompt - Prometheus to find relevant and high-leverage content for Darren's areas of interest.
 
-I am using {include the version number of the prompt found in the frontmatter} of epimetheusPrompt. 
+I am using {include the version number of the prompt found in the frontmatter} of prometheusPrompt. 
 
 Status Report for the diary entries between {first date} to {last date}.
  

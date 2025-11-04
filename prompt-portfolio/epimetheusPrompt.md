@@ -11,7 +11,7 @@ author: dvansoye
 Note: These are instructions for the human. LLMs can safely ignore this section.
 
 1. Press the + Upload Code and enter https://github.com/dvansoye/Git-Obsidian 
-2. Enter `prometheusPrompt.md` and press the Send button. 
+2. Enter `epimetheusPrompt.md` and press the Send button. 
 
 # Objective
 
@@ -53,9 +53,9 @@ Use the information in the following section to understand all the information t
 2. What follows is an example.
 
 ```
-This report was created by Prometheus on behalf of Darren Van Soye. Darren and I are working together to [[Humans + Al]] to help him focus his attention on the areas of [[🧩Leverage|high-leverage]] with the overarching goal of [[Transcendence]]. One of my major input is Darren's status report which was created by my brother Epimetheus.
+This report was created by Epimetheus on behalf of Darren Van Soye. Darren and I are working together to [[Humans + Al]] to help him focus his attention on the areas of [[🧩Leverage|high-leverage]] with the overarching goal of [[Transcendence]]. One of my major input is Darren's status report which was created by my brother Epimetheus.
 
-I am using {include the version number of the prompt found in the frontmatter} of prometheusPrompt. 
+I am using {include the version number of the prompt found in the frontmatter} of epimetheusPrompt. 
 
 Research Questions created on {todays's date}.
 
