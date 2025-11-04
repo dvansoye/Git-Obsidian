@@ -14,7 +14,7 @@ Note: These are instructions for the human. LLMs can safely ignore this section.
 2. Press the + Upload Code and enter https://github.com/dvansoye/Git-Obsidian.
 3. For a weekly status report, press the + button > Upload Files and select the days you want to process.
 4. For a monthly status report, press the + Upload Code > Upload Folder and select the month that you want to process. 
-5. Enter `epimetheusPrompt.md` in the prompt box and press the Send button.
+5. Enter `prometheusPrompt.md` in the prompt box and press the Send button.
 6. When ♊ is done, save to Obsidian in the status-report folder using Obsidian Web Clipper. Make sure the filename reflects the date. 
 7. Open GitHub Desktop, commit the changes and Push to origin. In this way, the status report is now available to Prometheus. 
 8. Re-upload GitHub for the [[epimetheusPrompt]]. Click here https://gemini.google.com/, Press the + Upload Code and enter https://github.com/dvansoye/Git-Obsidian. Next, enter `promethiusPrompt.md` in the prompt box and press the Send button. 
