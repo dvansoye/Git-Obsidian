@@ -36,6 +36,7 @@ B. Target Analysis File(s): One or more documents to be analyzed.
 
 - Output in markdown format.
 - Ensure that the first line of output is "# Mental Model Analysis" as shown below.
+- Make sure that mental models are properly formatted for Obsidian. That means they are enclosed with double square brackets and without any extraneous chargers like asterisks. Here's an example of a properly formatted and extent mental model from the mental-models folder within GitHub: [[🧩Incentives]]
 
 # 4. Analysis Sections to Generate
 
