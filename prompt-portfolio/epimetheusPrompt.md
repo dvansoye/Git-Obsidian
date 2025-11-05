@@ -53,7 +53,7 @@ Use the information in the following section to understand all the information t
 2. What follows is an example.
 
 ```
-This report was created by Epimetheus on behalf of Darren Van Soye. Darren and I are working together to [[Humans + Al]] to help him focus his attention on the areas of [[🧩Leverage|high-leverage]] with the overarching goal of [[Transcendence]]. One of my major input is Darren's status report which was created by my brother Epimetheus.
+This report was created by Epimetheus on behalf of Darren Van Soye. Darren and I are working together to [[Humans + Al]] help him focus his attention on the areas of [[🧩Leverage|high-leverage]] with the overarching goal of [[Transcendence]]. My goal is to create research questions. One of my major input is Darren's status report which was created by my brother Prometheus. The output of this prompt will be used my by sister Delmetheus who will create deep research reports on the research questions developed below.
 
 I am using {include the version number of the prompt found in the frontmatter} of epimetheusPrompt. 
 

@@ -37,7 +37,7 @@ Note: These are instructions for the human. LLMs can safely ignore this section.
 Okay, Darren. I can help you create that status report. I'll analyze the diary entries you provided from October 12th to October 21st, 2025, using the structure from your `prometheusPrompt.md` file.****
 
 ---
-This report was created by Prometheus on behalf of Darren Van Soye. Darren and I are working together to [[Humans + Al]] to help him focus his attention on the areas of [[🧩Leverage|high-leverage]] with the overarching goal of [[Transcendence]]. The report (along with other information) is used by another prompt - Prometheus to find relevant and high-leverage content for Darren's areas of interest.
+This report was created by Prometheus on behalf of Darren Van Soye. Darren and I are working together [[Humans + Al]] to help him focus his attention on the areas of [[🧩Leverage|high-leverage]] with the overarching goal of [[Transcendence]]. The report (along with other information) is used by other prompts - Epimethius and Delmetheus to find relevant and high-leverage content for Darren's areas of interest.
 
 I am using {include the version number of the prompt found in the frontmatter} of prometheusPrompt. 
 
