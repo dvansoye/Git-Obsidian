@@ -1,7 +1,7 @@
 ---
 title: prometheusPrompt
 id: prometheusPrompt-v3
-version: 3.0.0
+version: 3.0.1
 description: Have the LLM summarize the previous month's activities. See if it can uncover implied goals.
 required_values:
 author: dvansoye

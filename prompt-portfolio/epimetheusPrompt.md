@@ -1,7 +1,7 @@
 ---
 title: epimetheusPrompt
 id: epimetheusPrompt-v3
-version: 3.0.0
+version: 3.0.1
 description: Have the LLM deliver a report daily with ideas from the internet that match your current goals.
 required_values:
 author: dvansoye
