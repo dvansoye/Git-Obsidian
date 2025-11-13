@@ -7,80 +7,82 @@ Date-created: 2025-10-07
 aliases:
   - Keystone Concepts
 ---
-# Content
+# My Core Theme: A Journey to a Thousand Plateaus
 
-My overarching theme is [[Transcendence]]. I define this as intellectual and personal optimization that creates maximum leverage and freedom. I aspire to be cognitively enhanced, financially optimized, geographically flexible, and influential—essentially, to transcend normal human limitations through systematic application of technology and knowledge. This core drive informs almost all of my other goals and projects.
+My new theme is a journey to a thousand plateaus. I'm letting my curiosity drive the direction. I'm always looking for [[Lines of Flight]]—new opportunities for exploration. I'm also looking for ways improve my tools and techniques that lead to the accelerated acquisition, comprehension, retention, and application of knowledge. I use AI has my colleague on this journey of exploration. Together, we leverage recursive self-improvement to create new opportunities.l for learning.
 
-The path I will get there is through _Focus_. I'm struggling right now to balance many things:
+This filter clarifies my priorities. I minimize low-leverage, passive consumption (like Reddit or Google Discover) and maximize high-leverage, generative activities (like running my [[Summarization Suite]] against an entire book or developing new AI-assisted learning models).
 
-1. Time with Sandy 
-2. Time to exercise 
-3. Studying 
+# My Core Project 
 
-I have broken [[Accelerated Learning]], into the following phases:
+My Core Project: Building a Personal Capability Engine
 
-1. Acquire 
-2. Consume 
-3. Retain 
-4. Apply
+My central project is building a Personal Capability Engine. This is my practical application of [[Recursive Self-Improvement]].
 
-I am actively working to optimize all four.
+I am both an Engineer (a builder) and an Explorer (a pioneer). These two roles are symbiotic and create an accelerating feedback loop:
 
-Through [[Focus]] and [[Recursive Self-Improvement]].
+ * The Explorer (my curiosity) finds high-entropy content (e.g., books, research).
+ * The Engineer (my builder side) constructs a system (AI, automation) to process it.
+ * The system (my "Engine") generates high-leverage insights.
+ * Those insights provide more time and power to build a better Engine and explore faster.
 
-# Focus
+I am not just learning subjects; I am engineering the process of learning itself.
 
-I'm trying to do too many things at once.
+# My "Engine" Components
 
-1. Review past notes 
-2. Read my Readwise feed
-3. Read my Readwise library 
-4. Watch YouTube videos 
-5. Google Discover 
-6. Reddit 
-7. Medium 
-8. Synthetic Reports 
-9. Read books that I have checked out
+My Engine is built from several key, high-leverage components that I am constantly refining.
 
-This is a lot of sources and I'm planning to add a new one: [[Delmetheus]] which will deliver content based on my current goals. This is another example of [[Recursive Self-Improvement|RSI]].
+## Immersive Reading 
 
-Here are all of my information sources.
+Since I started my journey, I have read over 600 books. Because I have a mild form of [[Dyslexia]], I use a [[Text to Speech|screen reader]] to have the text read to me. I simultaneously read the text with my eyes. In this way, I often drop into a [[Flow|Flow State]] where my comprehension increases significantly. I call this type of reading [[Immersive Reading]]. 
 
-- [ ] Review past notes ⏫ 
-- [ ] Read my Readwise feed 🔼 
-- [ ] Read my Readwise library 🔼 
-- [ ] Watch YouTube videos 🔽 
-- [ ] Google Discover 🔽 
-- [ ] Reddit 🔽 
-- [ ] Medium 🔽 
-- [ ] Read books that I have checked out 🔼 
-- [ ] Synthetic Reports ⏫ 
+## Summarization Suite (The Insight Generator)
 
-My strategy is to focus. Reviewing past notes doesn't seem like a high value task, but it has led to many breakthroughs. Google Discover and Reddit are mostly low value tasks. (So, stop looking at them.) And I would say YouTube videos are mostly that. They are often misinformation or information that I can't use (like what China is doing). Anyway, I can always go back to a focus on reading broadly later.
+Though my interests are varied, I often find myself reading several books on the same topic. Sometimes this gets repetitive. Every author have to cover the basics before getting into their particular interest. This means I end up reading the same or very similar material over and over again, sometimes with the same illustration and background research. I started to ask if there were ways for me to learn faster. This lead me to the [[Summarization Suite]].
 
-# Recursive Self-improvement 
+The Summarization Suite allows me to "explore" a vast territory of knowledge with maximum speed and comprehension. At its core, it is just a bunch of prompts. The key tool in Gemini which is an extremely large context window. How large? I can ingest an entire book. This is a gamechanger. The components of the Summarization Suite are:
 
-Recently, I was struck by this idea that [[Artificial Intelligence & Machine Learning]] could help me to improve my acquisition, comprehension, retention, and application of knowledge. And, it could help me to do this in an ever increasing way. Imagine an upward spiral. It starts as a small circle near the ground and grows upward with an ever increasing diameter. I'm learning how to learn. I'm telling the LLM my current practice and it is making recommendations on how I can improve it. I implement some of the recommendations, measure their effects and report back. It is recursive because I have a way to measure my progress. It is also recursive because I keep going back to the LLM for more collaboration. It is self improvement because I'm slowly getting better. I'm not focused on learning a subject. I'm focused on how to improve my process in order to learn everything faster, deeper, with better recall and with the ability to apply everything I learn to the questions in life.
+ * A one-paragraph summary
+ * A vocabulary list
+ * A chapter-by-chapter summary
 
-# Synthetic Reports
+This "Summarization Suite" lets me understand a document at a deep, systemic level, often better than a single linear read-through would. And I can easily make connections with the content from one book to another book on the same or slightly different subject. All I need to do is to load the output from two books as input to a new prompt. It is as if the authors are having a debate with me as their audience. This act is called [[Syntopical Reading]]. The process demystifies terminology and reveals hidden connections between texts
 
-Synthetic Reports are AI generated documents. Here are the different flavors.
+## First Principles 
 
-1. Using the [[Summarization Suite]] of prompts, I can generate a one-paragraph summary, a vocabulary list, a chapter by chapter summary, a systems thinking analysis and a mental model analysis. The input is typically a book. But a long-form article or paper also works. Basically, instead of reading the whole thing, I am able to consume at a higher level. I always read the introduction of the book before summarization and, after I finish reading the chapter by chapter summary, I know where to focus my time. This has become increasingly important because I often read [[Syntopical Reading|Syntopically]] meaning that I read a lot of books on the same topic. The LLM demystifies the author's obscure terminology and provides helpful examples. The systems thinking and mental model analyses help me to see the material at a higher level and make connections between the concepts in other domains. 
-2. I often create bespoke deep research reports on a particular topic. For example, I requested a Deep research report on the Ukraine war. I got the whole history starting from when it was part of the Soviet Union all the way up to Ukraine's recent use of drones to attack Russia's oil refining infrastructure.
-3. I have been requesting Latticework reports. This is where I ask for a deep research report on an entire domain like military strategy, the game of chess or Immanuel Kant. What I'm asking for specifically are mental models. And I'm asking to see related mental models in other domains like business, biology, or physics. This gives a good understanding of the domain and associated connections. And this is the source of the mental models that become part of my mental model library which is used when processing the Mental Model deep research report mentioned above.
+==Talk about the [[$Root|Taxonomy of Human Knowledge]] and especially [[tagNote]]== This is how I implemented what Elon said about the trunk and branches and the confusion that occurs when you don't start with the basics and also don't have a place to hang your information. 
 
-# Automation 
+## Systems Thinking
 
-1. I store all of my prompts in GitHub. I also store all of my mental models there. This makes it convenient when I refer to them using Gemini. All I need to do is provide a link to my library and Gemini knows about all of my prompts by name. No more cutting and pasting.
-2. Because I have all of my prompts in GitHub, I can refer to them by name. Recently, I automated the five prompts that make up the [[Summarization Suite]] using [[Comet]]. All I need to do is to upload the document (book, PDF, etc.) and start Comet up. I can actually minimize the window and allow it to process.
-3. Once all the prompts have been run, I have a way to convert the output into markdown and download it directly into Obsidian.
-4. Once it is in Obsidian, I have a series of tools and scripts that reformat the text. I've had this for a while but I continue to make improvements. Once such improvement is to take all of my highlights and reactions to the text and place them at the beginning of the document which makes it easy to review what was important to me later. I plan to use AI here too by having it reorder, split, and merge the points so they make sense together and are easier to consume, retain and apply.
+==Note: is this an outline for my next article series? A bicycle for your mind or a 100 Plateaus?==
 
-# Gamification
+## Latticework of Mental Models
 
-I'm just wondering how I can bring this altogether, unify it, and make it fun and exciting. How can I take the ideas above and make them more "generative". By generative, I mean that they help me make progress towards [[Transcendence]]. In other words, where are my [[🧩Leverage|high-leverage]] activities? [[Zettelkasten/Git-Obsidian/prompt-portfolio/cato|cato]] is one example. I have already thought about how to improve cato to focus on my highlights and reactions. Maybe I could make it brief. Maybe cato could defer to me and ask what sounds interesting? I see you have interest in this and this and this. What would you like to discuss? Or maybe you would like to discuss the synthesis of these two ideas. Or, I know you are also interested in X. Perhaps we could talk about how this topic relates to X? Maybe as I am reviewing something, I could mark it as a candidate with a hashtag and then come back to it. It would be a review of a review. The key is how to select them. I have a lot of things to review. Which ones will deliver the most value? It really goes back to the ideas of Transcendence, Focus and my current goals as captured by [[Prometheus]].
+## Putting It All Together
 
-# Going Forward
+Then return to the Suite and add these to in.
 
-I think I will pass on actual goals. Instead, I will use [[Prometheus]] to capture implied goals. And, I will use implied goals as a springboard to generate new ideas for future efforts. 
+* A systems thinking analysis, including a mermaid diagram
+ * A mental model analysis that cross-references the text against my personal library of 100+ mental models
+
+## Jump to Light 
+
+After 
+After reaI also create bespoke deep research reports and Latticework reports to map entire domains (like military strategy) and their associated mental models. This demonstrates my pivot to [[Synthetic Learning|Synthetic Content]]. Synthetic just means that has been generated by AI. I either generate it using source material like a book, long form article or research paper or I ask for bespoke reports on a particular topic. 
+
+## Automation (The Powertrain)
+
+The Engine must be as automated as possible to create leverage.
+
+ * I store all prompts in GitHub, allowing me to reference complex prompt chains by name.
+ * I have automated the five-prompt [[Summarization Suite]] using [[Comet]]. I can upload a document, start the process, and let it run.
+ * I use the Obsidian Web Clipper plugin to convert the output to markdown and import it directly into my vault.
+ * In Obsidian, I run tools and scripts to reformat the text. One script pulls all my highlights and reactions to the beginning of the document for rapid review. I plan to use AI to further refine this by reordering, splitting, and merging these notes for maximum insight.
+
+# The Future: Accelerating the Engine
+
+My goal is to accelerate this recursive loop. The "gamification" is in the engineering itself—in building a more powerful engine. The key is to relentlessly hunt for Generative Leverage.
+
+[[Zettelkasten/Git-Obsidian/prompt-portfolio/cato|cato]] is a prime example. It is a multi-agent prompt that helps me learn new material. It is recursive: it saves a pedagogical log after each session, and the next time I run Cato, it reads this log to determine the most effective teaching methods. It tests new techniques and scores my performance, creating a measurable feedback loop. I plan to improve Cato to automatically focus on my highlights and reactions, creating a personalized curriculum from my own insights.
+
+Going forward, I will use [[Prometheus]] to capture my implied goals from my diary entries. [[Epimetheus]] will use these goals as a springboard to generate new research questions. [[Delmetheus]] will create deep research reports from these research questions, giving me a steady diet of high entropy content. 

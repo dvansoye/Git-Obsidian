@@ -16,22 +16,19 @@ SORT file.name
 
 ### Morning
 - **Entadfi (Finasteride, Tadalafil):** 5mg
-- **NOW NAC:** 1500 mg
-- **Thorne Glycine:** 1500 mg
-- **Nutricost Magnesium Bisglycinate:** 210 mg
+- **Nutricost Magnesium Malate:** 210 mg
 - **Swanson P-5-P:** 20 mg
+- **Thorne Basic Nutrients:** 1 capsule (this is a half dose)
 
 ### Noon
 - **LYTEshow:** 4 drops
 - **Rosuvastatin:** 5 mg
 - **Thorne Vitamin D:** 8 drops
-- **Thorne Basic Nutrients:** 1 pill
 
 ### Night (6:00 PM - 7:00 PM)
-- **NOW NAC:** 1500 mg
-- **Thorne Glycine:** 1500 mg
-- **Life Extension Melatonin:** 300 mcg
-- **Nutricost Magnesium Bisglycinate:** 210 mg
+- **Nutricost Glycine**: 3 g
+- **Nutricost NAC:** 3.6 g
+- **Nutricost Magnesium Bisglycinate:** 420 mg
 
 
 

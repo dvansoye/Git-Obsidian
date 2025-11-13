@@ -61,7 +61,8 @@ This is the most critical section. Your task here is to analyze how the individu
 ## Section 3: Strategic Insights & Identification of Leverage Points
 
 Based on your Lollapalooza analysis, distill your findings into a list of 3-5 non-obvious, high-level strategic insights.
-⦁	For each insight, pinpoint the primary leverage point(s). A leverage point is a place within a system where a small, focused intervention could produce a significant, disproportionate, and lasting change by disrupting the reinforcing loop you identified in Section 2.
+
+- For each insight, pinpoint the primary leverage point(s). A leverage point is a place within a system where a small, focused intervention could produce a significant, disproportionate, and lasting change by disrupting the reinforcing loop you identified in Section 2.
 
 # 5. Example of Analysis (Using a Geopolitical Document)
 
@@ -85,9 +86,9 @@ To ensure clarity on the expected output, here is an example of Section 1 based 
 
 ## Corresponding Output:
 
-# Mental Model Analysis
+## Mental Model Analysis
 
-## Section 1: Mental Model Application Matrix
+### Section 1: Mental Model Application Matrix
 
 | Mental Model | Application in the Target Document | First-Order Consequence (The "What") | Second-Order Consequence (The "So What?") |
 | :--- | :--- | :--- | :--- |
@@ -97,7 +98,7 @@ To ensure clarity on the expected output, here is an example of Section 1 based 
 | [[🧩Second-Order Thinking]] | The analysis moves beyond the immediate goal of fighting inflation to consider the chain of consequences: high rates (1st order) lead to weakened consumer demand and rising unemployment (2nd order), which then forces corporations to cut prices and compels the Fed to reverse its policy (3rd order). | The Fed maintains high interest rates to combat inflation. | This action suppresses consumer spending, which causes jobless claims to rise and forces businesses to cut prices. The initial problem (inflation) is replaced by a larger one (recession), forcing a policy reversal. |
 | [[🧩Cognitive Dissonance]] | The Fed holds the belief that the economy is strong and inflation is the primary risk. It is confronted with conflicting information (McDonald's price cuts, weak labor data). To reduce the mental discomfort, the institution clings to its established narrative. | The Fed issues "hawkish" public statements and meeting minutes, reaffirming its commitment to fighting inflation despite growing evidence of a slowdown. | A significant gap opens between the Fed's official position and the economic reality experienced by consumers and businesses, which erodes public trust and market confidence in the institution's guidance. |
 
-## Section 2: The Lollapalooza Effect - Convergence and Reinforcement
+### Section 2: The Lollapalooza Effect - Convergence and Reinforcement
 
 The situation described in the video—a major, institution-wide policy error—isn't the result of a single mistake. It's the product of several cognitive biases and flawed models converging and creating a feedback loop that magnifies the initial error.
 
@@ -115,7 +116,7 @@ Finally, this creates a state of Cognitive Dissonance. When faced with overwhelm
 
 No single model here tells the whole story. It's the combination—the flawed map, reinforced by bias, leading to a misreading of market forces, driven by short-term thinking, and locked in by psychological discomfort—that creates the "Lollapalooza Effect." The outcome is a policy blunder far greater and more entrenched than the sum of its individual parts.
 
-## Section 3: Strategic Insights & Identification of Leverage Points
+### Section 3: Strategic Insights & Identification of Leverage Points
 
 1. **Insight:** The most accurate and timely indicators of macroeconomic trends are often found in the real-world pricing strategies of high-volume, low-cost consumer businesses, which are more sensitive to consumer health than lagging government statistics or theoretical models.
     * **Leverage Point:** Prioritizing high-frequency data from bellwether retailers (e.g., McDonald's, Walmart) as a primary input for monetary policy decisions. This would allow for a more adaptive and proactive policy stance, rather than one that is reactive to outdated official data.
@@ -126,6 +127,6 @@ No single model here tells the whole story. It's the combination—the flawed ma
 3. **Insight:** The true health of the labor market is more accurately revealed by the duration of unemployment (i.e., rising continued jobless claims) than by the headline unemployment rate. A rising number of people exhausting their benefits without finding new work is a leading indicator of a sharp economic slowdown.
     * **Leverage Point:** Officially elevating "continued jobless claims" to a primary indicator within the Fed's dual mandate assessment. Treating it as a leading, rather than lagging, indicator would provide an earlier warning signal of economic deterioration, allowing for more timely policy adjustments.
 
-# 6. Final Instruction
+## 6. Final Instruction
 
 Now, using the provided files, perform the full analysis as described in the "Analysis Sections to Generate" section above.

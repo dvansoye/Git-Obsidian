@@ -38,9 +38,9 @@ Note: These are instructions for the human. LLMs can safely ignore this section.
 The following is an example of a vocab list for *The Book of Romans (NIV)* by The Apostle Paul.
 
 ```
-# Vocab List
+## Vocab List
 
-## Core Concepts
+### Core Concepts
 
 1.  **Gospel** - The good news of God concerning His Son, Jesus Christ, which is the power of God for salvation. Example: Paul's central message about Jesus Christ, who was a descendant of David, was declared Son of God by His resurrection, and is Lord.
 2.  **Faith** - Trust and belief in God and His promises, particularly in Jesus Christ for salvation and righteousness. Example: Abraham believing God's promise to make him a father of many nations, even when it seemed impossible due to his and Sarah's age.
@@ -53,14 +53,14 @@ The following is an example of a vocab list for *The Book of Romans (NIV)* by Th
 9.  **Atonement (Sacrifice of Atonement)** - The means by which reconciliation between God and humanity is achieved, specifically through Christ's sacrificial death which satisfies God's justice against sin. The NIV uses "sacrifice of atonement." Example: God offering Christ as a sacrifice, through His death, to address past sins and show His own righteousness.
 10. **Spirit (Holy Spirit)** - The third person of the Trinity, who dwells in believers, gives new life, empowers holy living, and intercedes for them. Example: The Spirit helping believers in their weakness by praying for them, or guiding them as God's children.
 
-## Salvation and Faith
+### Salvation and Faith
 
 Vocab list continues...
 ```
 
 # Constraints
 
-  - Begin the output with a main header: `# Vocab List`.
+  - Begin the output with a main header: `## Vocab List`.
   - The list must contain a minimum of 60 terms.
   - The "Core Concepts" section must contain exactly 10 terms.
   - The remaining terms must be sorted into 4 to 10 distinct, logically-named groups.

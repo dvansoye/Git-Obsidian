@@ -42,10 +42,12 @@ Use the information in the following section to understand all the information t
 2. Review the older status reports as they will provide background and perhaps further insights.
 3. Read through the information in my context-library. This should frame the rest of your processing. 
 4. Based on the above and especially the Goals section of my most recent status report, create 12 research questions. 
-5. Enhance these questions from the hints you get from the other sections of my status reports and my older status reports as well. 
-6. Further augment the research questions with information that you find about me in the context-library. 
-7. See if you get new insights by trying to connect the research questions with the mental models in my mental-models library. 
-8. Finally, I'm deeply interested in Systems Thinking. Where appropriate, reformulate some of the research questions using Systems Thinking.
+5. When creating these research questions, try to anticipate what I might be missing. Your goal is to help me see "over the horizon". Ask yourself: If Darren meets this goal, what is the goal after that and what would be the perfect research question to support his exploration. Don't be conservative. Go for it knowing that you are often going to fail. We are generating a dozen research questions. I'm hoping at least two or three are going to rock my world and help me to learn about a new topic that supports my journey.
+6. Review the `Recommendations` and `Cutting Room Floor` sections of the last few status reports and see if there's a way to incorporate this material where there is clear [[🧩Leverage]]. Make sure that I didn't later take the recommendation or pick up that task from the cutting room board in a subsequent status report before incorporating it. 
+7. Enhance these questions from the hints you get from the other sections of my status reports and my older status reports as well. 
+8. Further augment the research questions with information that you find about me in the context-library. 
+9. See if you get new insights by trying to connect the research questions with the mental models in my mental-models library. 
+10. Finally, I'm deeply interested in Systems Thinking. Where appropriate, reformulate some of the research questions using Systems Thinking.
 
 # Output
 
