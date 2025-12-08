@@ -80,15 +80,18 @@ Later, I came across the idea of [[First Principles]]. Elon Musk once referred t
 
 In my taxonomy, there are seven themes at the highest level. 
 
-| Domain | Description |
+| Domain      | Description                                                                                                                                                   |
 | :---------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Science | Science provides the foundational understanding and discovery of phenomena, shaping our knowledge base and opening avenues for innovation. |
-| Technology | Technology translates scientific discoveries into practical tools and solutions, dramatically altering our capabilities and reshaping societies. |
-| Economy | Underpins resource allocation, wealth distribution, and financial stability, critically affecting society's resilience and adaptability to systemic stresses. |
-| Society | Reflects human behaviors, cultural dynamics, and social structures, influencing and being influenced by systemic pressures and transformations. |
-| Geopolitics | Governs international relations, power dynamics, and conflicts, significantly impacting global stability and the ability to respond collectively to crises. |
-| Philosophy | Addresses ethical considerations, values, and worldviews, guiding decisions about the future direction of humanity amidst complex systemic challenges. |
-| Environment | Encompasses ecological systems and natural resources, whose health fundamentally determines humanity's sustainability and survival. |
+| Science     | Science provides the foundational understanding and discovery of phenomena, shaping our knowledge base and opening avenues for innovation.                    |
+| Technology  | Technology translates scientific discoveries into practical tools and solutions, dramatically altering our capabilities and reshaping societies.              |
+| Economy     | Underpins resource allocation, wealth distribution, and financial stability, critically affecting society's resilience and adaptability to systemic stresses. |
+| Society     | Reflects human behaviors, cultural dynamics, and social structures, influencing and being influenced by systemic pressures and transformations.               |
+| Geopolitics | Governs international relations, power dynamics, and conflicts, significantly impacting global stability and the ability to respond collectively to crises.   |
+| Philosophy  | Addresses ethical considerations, values, and worldviews, guiding decisions about the future direction of humanity amidst complex systemic challenges.        |
+| Environment | Encompasses ecological systems and natural resources, whose health fundamentally determines humanity's sustainability and survival.                           |
+
+- [ ] I should note that I got the initial themes above from Frank Diana. https://frankdiana.net/2025/11/12/when-systems-turn-over/
+
 Here is the schema that I defined. Level 1 (Theme) is found above. I then break it down. So, underneath it is `Science` is `Mathematics & Statistics`. And under that, is `Algebra`. And under that you might find `Linear Algebra`. 
 
 | Level | Heading Format | Taxonomic Rank | Example |
@@ -215,42 +218,42 @@ Continues...
 
 #@ The Future: Accelerating the Engine
 
-I use [[Prometheus]] to capture my implied goals from my diary entries. [[Epimetheus]] will use these goals as a springboard to generate new research questions. [[Delmetheus]] will create deep research reports from these research questions, giving me a steady diet of high entropy content. [[cato]] will synthesize it together and be my constant research partner, tutor, and co-explorer. 
+I use [[Zettelkasten/Konzepte/Epimetheus]] to capture my implied goals from my diary entries. [[Prometheus]] will use these goals as a springboard to generate new research questions. [[Delmetheus]] will create deep research reports from these research questions, giving me a steady diet of high entropy content. [[Cato]] will synthesize it together and be my constant research partner, tutor, and co-explorer. 
 
-- Prometheus - looks back (creates status reports that contain my "implied goals" based on what has my interest at the moment)
-- Epimetheus - (a neologism meaning a new word I made up) looks forward (writes research questions)
+- Epimetheus - looks back (creates status reports that contain my "implied goals" based on what has my interest at the moment)
+- Prometheus - (a neologism meaning a new word I made up) looks forward (writes research questions)
 - Delmetheus - I based this name of the Oracle at Delphi. 
 
-I like to think that Prometheus, Epimetheus and Delmetheus are siblings.
+I like to think that Epimetheus, Prometheus and Delmetheus are siblings.
 
 ![[Togetherv2.png]]
-### Prometheus
+### Epimetheus
 
 ![[Prov2.png]]
 
-Prometheus is my personal executive assistant, an AI agent designed to distill my past experiences and daily diary entries into clear, focused status reports. It digs through my notes, including previous reports and new diary entries, to figure out what I've accomplished, what my explicit or even implied goals are, and what might be driving me (my meta-motivations). It even has a "Cutting Room Floor" section to highlight high-value tasks I might have forgotten. I feed it my diary entries and it uses a special prompt to generate these reports, which I then save to Obsidian and push to GitHub. I have found it to be uncanny at pinpointing goals and providing clear, on-target insights, helping to reinforce my attention on high-level activities. Once Prometheus creates these insightful status reports, it passes them along to other agents like [[Epimetheus]] and [[Delmetheus]], who then use that information to generate research questions and even full deep research reports tailored to my interests.
+Epimetheus is my personal executive assistant, an AI agent designed to distill my past experiences and daily diary entries into clear, focused status reports. It digs through my notes, including previous reports and new diary entries, to figure out what I've accomplished, what my explicit or even implied goals are, and what might be driving me (my meta-motivations). It even has a "Cutting Room Floor" section to highlight high-value tasks I might have forgotten. I feed it my diary entries and it uses a special prompt to generate these reports, which I then save to Obsidian and push to GitHub. I have found it to be uncanny at pinpointing goals and providing clear, on-target insights, helping to reinforce my attention on high-level activities. Once Epimetheus creates these insightful status reports, it passes them along to other agents like [[Prometheus]] and [[Delmetheus]], who then use that information to generate research questions and even full deep research reports tailored to my interests.
 
-![[prometheusPrompt]]
-### Epimetheus
+![[oldepimetheusPrompt]]
+### Prometheus
 
 ![[Epiv2.png]]
 
-Epimetheus is like my super-smart research assistant, taking the status reports from [[Prometheus]] and turning them into really sharp, research-worthy questions that are totally tailored to what has my attention at the moment. It dives into my goals from the latest status report, digs through my older reports for background, and even checks out my personal context-library and mental models to make sure the questions are spot-on. The idea is to help me go beyond routine thinking and discover new, transformative inquiries. Once Epimetheus crafts these detailed research questions, it passes them along to [[Delmetheus]], who then uses them to create Gemini [[Deep Research Reports]].
+Prometheus is like my super-smart research assistant, taking the status reports from [[Zettelkasten/Konzepte/Epimetheus]] and turning them into really sharp, research-worthy questions that are totally tailored to what has my attention at the moment. It dives into my goals from the latest status report, digs through my older reports for background, and even checks out my personal context-library and mental models to make sure the questions are spot-on. The idea is to help me go beyond routine thinking and discover new, transformative inquiries. Once Prometheus crafts these detailed research questions, it passes them along to [[Delmetheus]], who then uses them to create Gemini [[Deep Research Reports]].
 
-![[epimetheusPrompt]]
+![[prometheusPrompt]]
 ### Delmetheus
 
 ![[Del.png]]
 
-Delmetheus acts as my oracle, taking the targeted research questions it gets (often from [[Epimetheus]]) and transforming them into deep, evidence-based reports and actionable insights. It works by performing rigorous analysis and synthesis to unlock breakthrough context that helps with growth and decision-making. The goal is for Delmetheus to provide a steady diet of high-entropy content. I immediately convert the report into markdown and push them directly into Obsidian, where I can read, highlight, and react to them. As a result, they become part of my vault and can influence my work in the future. 
+Delmetheus acts as my oracle, taking the targeted research questions it gets (often from [[Prometheus]]) and transforming them into deep, evidence-based reports and actionable insights. It works by performing rigorous analysis and synthesis to unlock breakthrough context that helps with growth and decision-making. The goal is for Delmetheus to provide a steady diet of high-entropy content. I immediately convert the report into markdown and push them directly into Obsidian, where I can read, highlight, and react to them. As a result, they become part of my vault and can influence my work in the future. 
 
 ![[delmetheusPrompt]]
 ### Cato
 
 [[Cato]] is my personal, super-smart tutor, a multi-agent AI prompt designed to help me really learn and remember new stuff. It works by taking my book highlights and reactions and turning them into personalized lessons. It's built with five different agents—a Teacher, Curriculum Designer, and Mnemonist—who all work together to design content, create mnemonics, and assess my understanding. The cool part is it's recursive: after each lesson, it saves a "Pedagogical Log" of how well I did, and then uses that log to figure out even better ways to teach me next time, constantly improving itself. You've seen it work well, helping you comprehend and retain information, and it's a key part of accelerating my learning engine. While it's already great at tutoring, I have this idea for it to become even more autonomous, finding interesting topics on its own. Ultimately, Cato delivers these tailored lessons and assessments directly to me, the student, and updates its own learning log for future sessions.
 
-![[cato]]
+![[Cato]]
 ## Voyager
 
-My vision for Voyager is shaping up to be a powerful, personal "Nomad Probe" for deep research and accelerated learning. Drawing inspiration from the actual Voyager spacecraft's journey beyond our solar system as a "message in a bottle", my Project Voyager aims to be a metaphorical line of flight, escaping established territories of thought to map new intellectual landscapes. It's envisioned as an interactive, cybernetic assemblage, integrating my existing AI agents like Prometheus, Epimetheus, Delmetheus and Cato into a cohesive system. This system would proactively scan my notes and goals, generate insightful research questions, and produce bespoke deep research reports, pushing them directly into Obsidian for further interaction and analysis. Ultimately, Voyager represents a pioneering journey into the unknown, a continuous process of "becoming-interstellar" in knowledge, driven by a menagerie of specialized roles to amplify my learning process.
+My vision for Voyager is shaping up to be a powerful, personal "Nomad Probe" for deep research and accelerated learning. Drawing inspiration from the actual Voyager spacecraft's journey beyond our solar system as a "message in a bottle", my Project Voyager aims to be a metaphorical line of flight, escaping established territories of thought to map new intellectual landscapes. It's envisioned as an interactive, cybernetic assemblage, integrating my existing AI agents like Epimetheus, Prometheus, Delmetheus and Cato into a cohesive system. This system would proactively scan my notes and goals, generate insightful research questions, and produce bespoke deep research reports, pushing them directly into Obsidian for further interaction and analysis. Ultimately, Voyager represents a pioneering journey into the unknown, a continuous process of "becoming-interstellar" in knowledge, driven by a menagerie of specialized roles to amplify my learning process.
 

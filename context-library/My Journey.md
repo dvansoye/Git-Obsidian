@@ -73,7 +73,7 @@ I am moderately neurotic.
 
 1. Sandy and I were both neglected in certain respects. Our parents were busy and distracted and focused on their own problems. When we came together, I was fuel and Sandy was oxygen and together we went up like a rocket reinforcing the good behavior and eliminating the bad or less positive. We finished school, excelled in our jobs, raised our kids and retired early.
 2. I have a sort of survivor's guilt. My brother is handicapped, my mom was hit by a truck and suffered from migraines the rest of her life, my dad was working two jobs to pay off debt. I was the only one left in a way. Why was I born normal, never got hurt and had free time? I felt and still feel a lot of pressure to perform. And the harder I work and the more I accomplished, the less I feel I can rest. It shows me that I can do far more than I ever thought. 
-3. I often think about regrets I will have in my deathbed. I also think about the loss of my physical and mental ability. I fear losing momentum. As a result, I tend to be very focused and very disciplined. That's because I'm working towards regret minimization.
+3. I often think about regrets I will have in my deathbed. I also think about the loss of my physical and mental ability. I fear losing momentum. As a result, I tend to be very focused and very disciplined. That's because I'm working towards [[regret minimization]].
 
 
 

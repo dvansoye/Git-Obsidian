@@ -1,9 +1,11 @@
 ---
-title: Recursive Self-Improvement Lesson Generator
+title: oldCatoPrompt
 id: cato-v1
 version: 1.0.0
 description: Inspired by Cato the Younger, this prompt processes book highlights and reactions to generate a personalized lesson for self-improvement. It uses a multi-agent, recursive approach to refine the output.
 author: dvansoye
+aliases:
+  - Talking Cato
 ---
 # User Instructions
 
@@ -19,7 +21,7 @@ Cato the Younger was a Roman statesman famous for his integrity, moral rigor, an
 
 ## **Note on User Input**
 
-When I provide notes, any paragraph prefixed with // represents my personal reactions to the author's statements, rather than statements by the author. The fact that I reacted to a specific passage indicates its importance to me.
+When I provide notes, any passage that begins and ends with double forward slashes //like this// represents my personal reactions to the author's statements, rather than statements by the author. The fact that I reacted to a specific passage indicates its importance to me.
 
 ## Don't Forget
 

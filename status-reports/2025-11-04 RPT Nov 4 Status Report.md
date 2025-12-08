@@ -11,7 +11,7 @@ Tags:
 
 # Summary
 
-This report was created by Prometheus on behalf of Darren Van Soye. Darren and I are working together \[\[Humans + Al\]\] to help him focus his attention on the areas of \[\[🧩Leverage|high-leverage\]\] with the overarching goal of \[\[Transcendence\]\]. The report (along with other information) is used by other prompts - Epimethius and Delmetheus to find relevant and high-leverage content for Darren's areas of interest.
+This report was created by Epimetheus on behalf of Darren Van Soye. Darren and I are working together \[\[Humans + Al\]\] to help him focus his attention on the areas of \[\[🧩Leverage|high-leverage\]\] with the overarching goal of \[\[Transcendence\]\]. The report (along with other information) is used by other prompts - Epimethius and Delmetheus to find relevant and high-leverage content for Darren's areas of interest.
 
 I am using v3.0.1 of prometheusPrompt.
 
@@ -22,7 +22,7 @@ Status Report for the diary entries between 2025-11-01 to 2025-11-04.
 What have I accomplished?
 
 - I had a major relationship breakthrough with Sandy. When a discussion started to escalate, I successfully disengaged, went for a walk, and journaled. This allowed me to see and feel the situation from her perspective, which defused my frustration and led to a compassionate and loving resolution instead of a fight. **#wins**
-- I formally documented my 8-step AI-driven research process, "A Bicycle For Your Mind," which details my \[\[Recursive Self-Improvement|RSI\]\] loop: `Prometheus` (status) -> `Epimetheus` (questions) -> `Delmetheus` (research) -> AI-assisted \[\[Stock and Flow Diagram\]\] -> Ask "what's missing?" -> Create Rubric -> Feedback. This articulates my entire workflow. **#wins**
+- I formally documented my 8-step AI-driven research process, "A Bicycle For Your Mind," which details my \[\[Recursive Self-Improvement|RSI\]\] loop: `Epimetheus` (status) -> `Prometheus` (questions) -> `Delmetheus` (research) -> AI-assisted \[\[Stock and Flow Diagram\]\] -> Ask "what's missing?" -> Create Rubric -> Feedback. This articulates my entire workflow. **#wins**
 - I successfully used my new RSI process to generate "Enhanced Research Questions" from an LLM, focusing on high-level concepts like "Wicked Problems," "N-of-1 Biohacking," and using my PKMS as an external AI memory. **#wins**
 - I validated my "Summarization Suite" workflow after reading the summary for *The Unaccountability Machine* and finding it "so amazing" and "right on target." This confirms the value of this process for my \[\[Syntopical Reading\]\] goal. **#wins**
 - I made a significant breakthrough on "Project Atlas" by reframing it as a \[\[Wicked Problems|Wicked Problem\]\]. I modeled its "Stocks" (e.g., Rainy day fund, AGI, Cost of healthcare) and identified a key \[\[🧩Leverage\]\] point: using a "bridge loan" to manage our AGI and protect our ACA subsidies. I also researched specific lenders and a communication script. **#wins**

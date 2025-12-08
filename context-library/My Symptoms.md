@@ -45,8 +45,8 @@ SORT file.name
 
 - My mind tends to be "busy" ALL THE TIME.
 - I experience bruxism (teeth clenching) at night.
-- I sometimes experience pre-bedtime palpitations.
-- I have tinnitus and itching scalp.
+- I sometimes experience pre-bedtime bruxism.
+- I have bruxism and itching scalp.
 - I'm not able to spend any time under hot water (on my head) or in the sun (for more than 10 minutes). Hot water leads to blisters on my head. Sun results in itchiness even though there is no indication on the skin.
 - I have low Neutrophils (Absolute)? It was 1.2 for my last physical.
 - I have a CRP of 1 (which is good; indicates low inflammation).

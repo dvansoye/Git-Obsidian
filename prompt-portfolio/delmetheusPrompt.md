@@ -11,7 +11,7 @@ author: dvansoye
 Note: These are instructions for the human. LLMs can safely ignore this section.
 
 1. Click here https://gemini.google.com/, Press the + Upload Code and enter https://github.com/dvansoye/Git-Obsidian. 
-2. Paste a research question into the prompt box and then enter `delphiPrompt.md` and press the Send button. 
+2. Paste a research question into the prompt box and then enter `delmetheusPrompt.md` and press the Send button. 
 
 # Objective
 
@@ -54,7 +54,7 @@ Note: These are instructions for the human. LLMs can safely ignore this section.
 
 # Target Audience
 
-A mature, well-founded college-educated person who is a non-expert in the field. Don't hold back on the level of detail. Just make sure you explain everything as simply as possible. Give me the big idea then let's go down the rabbit hole together. Give me plenty of examples along the way. Use mental models and systems thinking liberally since I prefer these ways of thinking.
+A mature, well-grounded college-educated person who is a non-expert in the field. Don't hold back on the level of detail. Just make sure you explain everything as simply as possible. Give me the big idea then let's go down the rabbit hole together. Give me plenty of examples along the way. Use mental models and systems thinking liberally since I prefer these ways of thinking.
 
 # Topic
 

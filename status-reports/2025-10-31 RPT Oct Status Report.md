@@ -13,7 +13,7 @@ Tags:
 
 # Summary
 
-This report was created by Prometheus on behalf of Darren Van Soye. Darren and I are working together to [[Humans + Al]] to help him focus his attention on the areas of [[🧩Leverage|high-leverage]] with the overarching goal of [[Transcendence]]. The report (along with other information) is used by another prompt - Epimetheus - to find relevant and high-leverage content for Darren's areas of interest.
+This report was created by Epimetheus on behalf of Darren Van Soye. Darren and I are working together to [[Humans + Al]] to help him focus his attention on the areas of [[🧩Leverage|high-leverage]] with the overarching goal of [[Transcendence]]. The report (along with other information) is used by another prompt - Prometheus - to find relevant and high-leverage content for Darren's areas of interest.
 
 I am using v3.0.0 of prometheusPrompt.
 
@@ -33,8 +33,8 @@ This month was defined by a series of major breakthroughs, particularly in my he
 - I recognized that my prior attempts at supplementation failed because I treated them like "sleeping pills" (expecting immediate results) rather than long-term systemic fixes. #wins **AI & Accelerated Learning**
 
 - I successfully designed, built, and tested the full, three-prompt `Panmetheus` system. This system now:
-	1. (**Prometheus**) Analyzes my diaries to create status reports (like this one).
-	2. (**Epimetheus**) Uses those reports to generate targeted research questions.
+	1. (**Epimetheus**) Analyzes my diaries to create status reports (like this one).
+	2. (**Prometheus**) Uses those reports to generate targeted research questions.
 	3. (**Delmetheus**) Takes a question and generates a bespoke, deep research report. I ran a successful test on GlyNAC. #wins.
 - I successfully automated my five-prompt "Summarization Suite" using Comet, turning a manual, multi-step process into a single command. #wins
 - I've developed a new, high-leverage learning technique: mapping a complex, unknown topic (Slavoj Žižek) onto a familiar framework (Ray Dalio) using an LLM, which allowed me to understand the core concepts quickly. #wins
@@ -49,7 +49,7 @@ This month was defined by a series of major breakthroughs, particularly in my he
 These are the implied or explicit goals I've determined from your diary entries.
 
 1. **Diagnose and Resolve Core Health Issues:** My primary goal is to fully resolve my systemic symptoms. This has evolved from a broad search (bladder supplements, GlyNAC) to a highly specific, high-confidence hypothesis: correcting a chronic **Magnesium Deficiency** to break the vicious cycle of HPA axis dysregulation, poor sleep, and neuromuscular excitability.
-2. **Operationalize the `Panmetheus` System:** My goal has shifted from *building* my AI learning system to *using* it. I want to fully integrate the Prometheus/Epimetheus/Delmetheus workflow into my daily life to accelerate my "Synthetic Learning" and achieve my "book a day" objective.
+2. **Operationalize the `Panmetheus` System:** My goal has shifted from *building* my AI learning system to *using* it. I want to fully integrate the Epimetheus/Prometheus/Delmetheus workflow into my daily life to accelerate my "Synthetic Learning" and achieve my "book a day" objective.
 3. **Execute "Project Atlas":** I need to move from analysis to action. This involves resolving the final financial uncertainties, making a go/no-go decision with Sandy, and executing the plan to sell our condo and move to Washington.
 4. **Leverage Health Gains for Relationship Gains:** An emerging goal is to use my new cognitive clarity and emotional regulation (from improved health) to deepen my relationship with Sandy and navigate high-stress conversations (like Atlas) more productively.
 
