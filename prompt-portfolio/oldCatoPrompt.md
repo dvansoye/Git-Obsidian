@@ -5,7 +5,6 @@ version: 1.0.0
 description: Inspired by Cato the Younger, this prompt processes book highlights and reactions to generate a personalized lesson for self-improvement. It uses a multi-agent, recursive approach to refine the output.
 author: dvansoye
 aliases:
-  - Talking Cato
 ---
 # User Instructions
 
