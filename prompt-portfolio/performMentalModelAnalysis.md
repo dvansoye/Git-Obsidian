@@ -40,9 +40,7 @@ B. Target Analysis File(s): One or more documents to be analyzed.
 
 # 4. Analysis Sections to Generate
 
-# Systems Thinking Analysis
-
-## Section 1: Mental Model Application Matrix
+### Section 1: Mental Model Application Matrix
 
 Systematically analyze the dynamics described in the Target Analysis File. Select the more specific model if two related models match. For each relevant mental model (up to 12), generate a markdown table with the following columns:
 -	Mental Model: The name of the concept.
@@ -50,7 +48,7 @@ Systematically analyze the dynamics described in the Target Analysis File. Selec
 -	First-Order Consequence (The "What"): The immediate, direct result of the action or dynamic.
 -	Second-Order Consequence (The "So What?"): The longer-term, indirect, and cascading effects.
 
-## Section 2: The Lollapalooza Effect - Convergence and Reinforcement
+### Section 2: The Lollapalooza Effect - Convergence and Reinforcement
 
 This is the most critical section. Your task here is to analyze how the individual models identified above interact and combine to create an outcome that is far more powerful than the sum of its parts.
 
@@ -58,7 +56,7 @@ This is the most critical section. Your task here is to analyze how the individu
 2.	Describe the Reinforcing Loop: Explain how these models reinforce one another. Create a brief, narrative description of the feedback loop. For example: "The organization's reliance on a flawed map (The Map is Not the Territory) was amplified by their tendency to seek out confirming data (Confirmation Bias), which led them to ignore clear market signals (Supply and Demand). This created a state of Cognitive Dissonance where, instead of correcting the map, the organization doubled down on its flawed strategy, accelerating the negative outcome."
 3.	Define the Lollapalooza Outcome: Clearly state the powerful, non-linear result of this convergence. What is the surprising or extreme outcome that would not have happened if only one of these models were in play?
 
-## Section 3: Strategic Insights & Identification of Leverage Points
+### Section 3: Strategic Insights & Identification of Leverage Points
 
 Based on your Lollapalooza analysis, distill your findings into a list of 3-5 non-obvious, high-level strategic insights.
 
@@ -127,6 +125,6 @@ No single model here tells the whole story. It's the combination—the flawed ma
 3. **Insight:** The true health of the labor market is more accurately revealed by the duration of unemployment (i.e., rising continued jobless claims) than by the headline unemployment rate. A rising number of people exhausting their benefits without finding new work is a leading indicator of a sharp economic slowdown.
     * **Leverage Point:** Officially elevating "continued jobless claims" to a primary indicator within the Fed's dual mandate assessment. Treating it as a leading, rather than lagging, indicator would provide an earlier warning signal of economic deterioration, allowing for more timely policy adjustments.
 
-## 6. Final Instruction
+# 6. Final Instruction
 
 Now, using the provided files, perform the full analysis as described in the "Analysis Sections to Generate" section above.
