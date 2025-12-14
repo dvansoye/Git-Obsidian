@@ -109,7 +109,7 @@ Order interventions from shallow to deep (parameters → information → rules �
 - Create a Mermaid diagram based on the systems thinking analysis; ensure all subgraph names use underscores instead of spaces and avoid direct self-referencing loops by using an intermediate action node to represent the feedback, for example `A --> Action --> A`.
 - Note: Subgraphs in Mermaid cannot be referenced as nodes; only plain named nodes can be linked. Also, don't use parentheses or quotes in the node text. Just use pure text. Finally, no need to add citations (Cite). It makes the diagram too busy.
 
-## Appendix A — Quick Glossary Within This Analysis
+### Appendix A — Quick Glossary Within This Analysis
 
 - Stock: an accumulation (e.g., inventory, population, trust).
 - Flow: a rate changing a stock (e.g., hires/month).
