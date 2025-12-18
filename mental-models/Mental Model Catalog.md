@@ -137,7 +137,7 @@ Date-created: 2025-09-20
 ---
 Tags: [[Latticework of Mental Models]]
 
-- [ ] Review 📅 2025-10-20
+- [x] Review 📅 2025-10-20
     
 # Inlinks
 
@@ -169,7 +169,7 @@ Date-created: 2025-09-20
 ---
 Tags: [[Latticework of Mental Models]]
 
-- [ ] Review 📅 2025-10-20
+- [x] Review 📅 2025-10-20
     
 # Inlinks
 
@@ -236,7 +236,7 @@ Date-created: 2025-09-20
 ---
 Tags: [[Latticework of Mental Models]]
 
-- [ ] Review 📅 2025-10-20
+- [x] Review 📅 2025-10-20
     
 # Inlinks
 
@@ -420,7 +420,7 @@ Date-created: 2025-09-20
 ---
 Tags: [[Latticework of Mental Models]]
 
-- [ ] Review 📅 2025-10-20
+- [x] Review 📅 2025-10-20
     
 # Inlinks
 
@@ -515,7 +515,7 @@ Date-created: 2025-09-20
 ---
 Tags: [[Latticework of Mental Models]]
 
-- [ ] Review 📅 2025-10-20
+- [x] Review 📅 2025-10-20
     
 # Inlinks
 
@@ -547,7 +547,7 @@ Date-created: 2025-09-20
 ---
 Tags: [[Latticework of Mental Models]]
 
-- [ ] Review 📅 2025-10-20
+- [x] Review 📅 2025-10-20
     
 # Inlinks
 
@@ -763,7 +763,7 @@ Date-created: 2025-09-20
 ---
 Tags: [[Latticework of Mental Models]]
 
-- [ ] Review 📅 2025-10-20
+- [x] Review 📅 2025-10-20
     
 # Inlinks
 
@@ -825,7 +825,7 @@ Date-created: 2025-09-20
 ---
 Tags: [[Latticework of Mental Models]]
 
-- [ ] Review 📅 2025-10-20
+- [x] Review 📅 2025-10-20
     
 # Inlinks
 
@@ -1014,7 +1014,7 @@ Date-created: 2025-09-20
 ---
 Tags: [[Latticework of Mental Models]]
 
-- [ ] Review 📅 2025-10-20
+- [x] Review 📅 2025-10-20
     
 # Inlinks
 
@@ -1049,7 +1049,7 @@ aliases:
 ---
 Tags: [[Latticework of Mental Models]]
 
-- [ ] Review 📅 2024-03-04
+- [x] Review 📅 2024-03-04
 
 # Inlinks 
 ```dataview
@@ -1193,7 +1193,7 @@ Date-created: 2025-09-20
 ---
 Tags: [[Latticework of Mental Models]]
 
-- [ ] Review 📅 2025-10-20
+- [x] Review 📅 2025-10-20
     
 # Inlinks
 
@@ -1225,7 +1225,7 @@ Date-created: 2025-09-20
 ---
 Tags: [[Latticework of Mental Models]]
 
-- [ ] Review 📅 2025-10-20
+- [x] Review 📅 2025-10-20
     
 # Inlinks
 
@@ -1326,7 +1326,7 @@ Date-created: 2025-09-20
 ---
 Tags: [[Latticework of Mental Models]]
 
-- [ ] Review 📅 2025-10-20
+- [x] Review 📅 2025-10-20
     
 # Inlinks
 
@@ -1358,7 +1358,7 @@ Date-created: 2025-09-20
 ---
 Tags: [[Latticework of Mental Models]]
 
-- [ ] Review 📅 2025-10-20
+- [x] Review 📅 2025-10-20
     
 # Inlinks
 
@@ -1390,7 +1390,7 @@ Date-created: 2025-09-20
 ---
 Tags: [[Latticework of Mental Models]]
 
-- [ ] Review 📅 2025-10-20
+- [x] Review 📅 2025-10-20
     
 # Inlinks
 
@@ -1452,7 +1452,7 @@ Date-created: 2025-09-20
 ---
 Tags: [[Latticework of Mental Models]]
 
-- [ ] Review 📅 2025-10-20
+- [x] Review 📅 2025-10-20
     
 # Inlinks
 
@@ -1545,7 +1545,7 @@ A "Good Explanation" is one that is hard to vary while still accounting for what
 
 Tags: 
 
-- [ ] Review 📅 2025-02-05
+- [x] Review 📅 2025-02-05
 
 # Inlinks 
 ```dataview
@@ -1596,7 +1596,7 @@ Date-created: 2025-09-20
 ---
 Tags: [[Latticework of Mental Models]]
 
-- [ ] Review 📅 2025-10-20
+- [x] Review 📅 2025-10-20
     
 # Inlinks
 
@@ -1726,7 +1726,7 @@ Date-created: 2025-09-20
 ---
 Tags: [[Latticework of Mental Models]]
 
-- [ ] Review 📅 2025-10-20
+- [x] Review 📅 2025-10-20
     
 # Inlinks
 
@@ -1758,7 +1758,7 @@ Date-created: 2025-09-20
 ---
 Tags: [[Latticework of Mental Models]]
 
-- [ ] Review 📅 2025-10-20
+- [x] Review 📅 2025-10-20
     
 # Inlinks
 
@@ -2020,7 +2020,7 @@ Date-created: 2025-09-20
 ---
 Tags: [[Latticework of Mental Models]]
 
-- [ ] Review 📅 2025-10-20
+- [x] Review 📅 2025-10-20
     
 # Inlinks
 
@@ -2052,7 +2052,7 @@ Date-created: 2025-09-20
 ---
 Tags: [[Latticework of Mental Models]]
 
-- [ ] Review 📅 2025-10-20
+- [x] Review 📅 2025-10-20
     
 # Inlinks
 
@@ -2087,7 +2087,7 @@ aliases:
 ---
 Tags: [[Latticework of Mental Models]]
 
-- [ ] Review 📅 2025-04-21
+- [x] Review 📅 2025-04-21
 
 # Inlinks 
 ```dataview
@@ -2118,7 +2118,7 @@ Date-created: 2025-09-20
 ---
 Tags: [[Latticework of Mental Models]]
 
-- [ ] Review 📅 2025-10-20
+- [x] Review 📅 2025-10-20
     
 # Inlinks
 
@@ -2322,7 +2322,7 @@ Date-created: 2025-09-20
 ---
 Tags: [[Latticework of Mental Models]]
 
-- [ ] Review 📅 2025-10-20
+- [x] Review 📅 2025-10-20
     
 # Inlinks
 
@@ -2389,7 +2389,7 @@ Date-created: 2025-09-20
 ---
 Tags: [[Latticework of Mental Models]]
 
-- [ ] Review 📅 2025-10-20
+- [x] Review 📅 2025-10-20
     
 # Inlinks
 
@@ -2484,7 +2484,7 @@ Date-created: 2025-09-20
 ---
 Tags: [[Latticework of Mental Models]]
 
-- [ ] Review 📅 2025-10-20
+- [x] Review 📅 2025-10-20
     
 # Inlinks
 
@@ -2546,7 +2546,7 @@ Date-created: 2025-09-20
 ---
 Tags: [[Latticework of Mental Models]]
 
-- [ ] Review 📅 2025-10-20
+- [x] Review 📅 2025-10-20
     
 # Inlinks
 
@@ -2704,7 +2704,7 @@ Date-created: 2025-09-20
 ---
 Tags: [[Latticework of Mental Models]]
 
-- [ ] Review 📅 2025-10-20
+- [x] Review 📅 2025-10-20
     
 # Inlinks
 
@@ -2736,7 +2736,7 @@ Date-created: 2025-09-20
 ---
 Tags: [[Latticework of Mental Models]]
 
-- [ ] Review 📅 2025-10-20
+- [x] Review 📅 2025-10-20
     
 # Inlinks
 
@@ -2799,7 +2799,7 @@ Date-created: 2025-09-20
 ---
 Tags: [[Latticework of Mental Models]]
 
-- [ ] Review 📅 2025-10-20
+- [x] Review 📅 2025-10-20
     
 # Inlinks
 
@@ -2831,7 +2831,7 @@ Date-created: 2025-09-20
 ---
 Tags: [[Latticework of Mental Models]]
 
-- [ ] Review 📅 2025-10-20
+- [x] Review 📅 2025-10-20
     
 # Inlinks
 
@@ -2890,7 +2890,7 @@ Date-created: 2025-09-20
 ---
 Tags: [[Latticework of Mental Models]]
 
-- [ ] Review 📅 2025-10-20
+- [x] Review 📅 2025-10-20
     
 # Inlinks
 
@@ -3027,7 +3027,7 @@ Date-created: 2025-09-20
 ---
 Tags: [[Latticework of Mental Models]]
 
-- [ ] Review 📅 2025-10-20
+- [x] Review 📅 2025-10-20
     
 # Inlinks
 
@@ -3092,7 +3092,7 @@ Date-created: 2025-09-20
 ---
 Tags: [[Latticework of Mental Models]]
 
-- [ ] Review 📅 2025-10-20
+- [x] Review 📅 2025-10-20
     
 # Inlinks
 
@@ -3124,7 +3124,7 @@ Date-created: 2025-09-20
 ---
 Tags: [[Latticework of Mental Models]]
 
-- [ ] Review 📅 2025-10-20
+- [x] Review 📅 2025-10-20
     
 # Inlinks
 
@@ -3187,7 +3187,7 @@ Date-created: 2025-09-20
 ---
 Tags: [[Latticework of Mental Models]]
 
-- [ ] Review 📅 2025-10-20
+- [x] Review 📅 2025-10-20
     
 # Inlinks
 
@@ -3219,7 +3219,7 @@ Date-created: 2025-09-20
 ---
 Tags: [[Latticework of Mental Models]]
 
-- [ ] Review 📅 2025-10-20
+- [x] Review 📅 2025-10-20
     
 # Inlinks
 
@@ -3377,7 +3377,7 @@ Date-created: 2025-09-20
 ---
 Tags: [[Latticework of Mental Models]]
 
-- [ ] Review 📅 2025-10-20
+- [x] Review 📅 2025-10-20
     
 # Inlinks
 
@@ -3501,7 +3501,7 @@ Date-created: 2025-09-20
 ---
 Tags: [[Latticework of Mental Models]]
 
-- [ ] Review 📅 2025-10-20
+- [x] Review 📅 2025-10-20
     
 # Inlinks
 
@@ -3533,7 +3533,7 @@ Date-created: 2025-09-20
 ---
 Tags: [[Latticework of Mental Models]]
 
-- [ ] Review 📅 2025-10-20
+- [x] Review 📅 2025-10-20
     
 # Inlinks
 
@@ -3721,7 +3721,7 @@ Date-created: 2025-09-20
 ---
 Tags: [[Latticework of Mental Models]]
 
-- [ ] Review 📅 2025-10-20
+- [x] Review 📅 2025-10-20
     
 # Inlinks
 
@@ -3753,7 +3753,7 @@ Date-created: 2025-09-20
 ---
 Tags: [[Latticework of Mental Models]]
 
-- [ ] Review 📅 2025-10-20
+- [x] Review 📅 2025-10-20
     
 # Inlinks
 
@@ -3785,7 +3785,7 @@ Date-created: 2025-09-20
 ---
 Tags: [[Latticework of Mental Models]]
 
-- [ ] Review 📅 2025-10-20
+- [x] Review 📅 2025-10-20
     
 # Inlinks
 
@@ -3850,7 +3850,7 @@ Date-created: 2025-09-20
 ---
 Tags: [[Latticework of Mental Models]]
 
-- [ ] Review 📅 2025-10-20
+- [x] Review 📅 2025-10-20
     
 # Inlinks
 
@@ -3882,7 +3882,7 @@ Date-created: 2025-09-20
 ---
 Tags: [[Latticework of Mental Models]]
 
-- [ ] Review 📅 2025-10-20
+- [x] Review 📅 2025-10-20
     
 # Inlinks
 
@@ -3914,7 +3914,7 @@ Date-created: 2025-09-20
 ---
 Tags: [[Latticework of Mental Models]]
 
-- [ ] Review 📅 2025-10-20
+- [x] Review 📅 2025-10-20
     
 # Inlinks
 
@@ -3946,7 +3946,7 @@ Date-created: 2025-09-20
 ---
 Tags: [[Latticework of Mental Models]]
 
-- [ ] Review 📅 2025-10-20
+- [x] Review 📅 2025-10-20
     
 # Inlinks
 
@@ -3978,7 +3978,7 @@ Date-created: 2025-09-20
 ---
 Tags: [[Latticework of Mental Models]]
 
-- [ ] Review 📅 2025-10-20
+- [x] Review 📅 2025-10-20
     
 # Inlinks
 
@@ -4010,7 +4010,7 @@ Date-created: 2025-09-20
 ---
 Tags: [[Latticework of Mental Models]]
 
-- [ ] Review 📅 2025-10-20
+- [x] Review 📅 2025-10-20
     
 # Inlinks
 
@@ -4109,7 +4109,7 @@ Date-created: 2025-09-20
 ---
 Tags: [[Latticework of Mental Models]]
 
-- [ ] Review 📅 2025-10-20
+- [x] Review 📅 2025-10-20
     
 # Inlinks
 
@@ -4141,7 +4141,7 @@ Date-created: 2025-09-20
 ---
 Tags: [[Latticework of Mental Models]]
 
-- [ ] Review 📅 2025-10-20
+- [x] Review 📅 2025-10-20
     
 # Inlinks
 

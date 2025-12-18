@@ -15,7 +15,7 @@ Tags: [[Medical & Health Sciences]] [[Clinical Medicine]] [[Neuroscience]] [[Hum
 
 Tags:
 
-- [ ] Review 📅 2024-12-31
+- [x] Review 📅 2024-12-31
 
 # Inlinks
 
@@ -44,6 +44,7 @@ SORT file.name
 ## Symptoms
 
 - My mind tends to be "busy" ALL THE TIME.
+- I have tinnitus.
 - I experience bruxism (teeth clenching) at night.
 - I sometimes experience pre-bedtime bruxism.
 - I have bruxism and itching scalp.

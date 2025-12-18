@@ -6,7 +6,7 @@ Date-created: 2025-09-20
 ---
 Tags: [[Latticework of Mental Models]]
 
-- [ ] Review 📅 2025-10-20
+- [x] Review 📅 2025-10-20
     
 # Inlinks
 

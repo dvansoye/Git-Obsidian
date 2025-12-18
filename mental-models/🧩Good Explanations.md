@@ -36,7 +36,7 @@ A "Good Explanation" is one that is hard to vary while still accounting for what
 
 Tags: 
 
-- [ ] Review 📅 2025-02-05
+- [x] Review 📅 2025-02-05
 
 # Inlinks 
 ```dataview

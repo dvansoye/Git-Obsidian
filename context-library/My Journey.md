@@ -6,7 +6,7 @@ Date-created: 2024-05-02
 ---
 Tags: [[Darren Van Soye]]
 
-- [ ] Review 📅 2024-06-02
+- [x] Review 📅 2024-06-02
 
 # Inlinks
 

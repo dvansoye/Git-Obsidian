@@ -9,7 +9,7 @@ aliases:
 ---
 Tags: [[Latticework of Mental Models]]
 
-- [ ] Review 📅 2024-03-04
+- [x] Review 📅 2024-03-04
 
 # Inlinks 
 ```dataview
